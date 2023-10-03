@@ -1,0 +1,5456 @@
+[
+    {
+        "Topic": "history",
+        "Number": 1,
+        "Text": "1. დმანისში აღმოჩენილ პირველყოფილ ადამიანთა ნაშთებს უწოდებენ:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "„პირველ ქართლელებს“;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "„პირველ ქართველებს“;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "„პირველ ევროპელებს“;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "„პირველ ადამიანებს“;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 2,
+        "Text": "2. დმანისში აღმოჩენილ „პირველ ევროპელებს“ დაარქვეს:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "ზეზვა და მზია;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "თამარი და დავითი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ბადრი და ნანა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ნინო და გიორგი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 3,
+        "Text": "3. რომელი ქვეყნიდან მოვიდნენ არგონავტები კოლხეთში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ასურეთიდან;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ურარტუდან;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "შუმერიდან;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "საბერძნეთიდან;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 4,
+        "Text": "4. ფოთთან დაარსებულ ბერძნულ კოლონიას ერქვა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "თბილისი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "ფაზისი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ვანი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "მცხეთა;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 5,
+        "Text": "5. აიეტი და მედეა იყვნენ:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ბერძნები;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "იბერიელები;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "კოლხები;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ეგვიპტელები;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 6,
+        "Text": "6. მითი „ოქროს საწმისის“ შესახებ დაკავშირებულია:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "სომხებთან;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "სპარსელებთან;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ეგვიპტელებთან;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "კოლხებთან;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 7,
+        "Text": "7. არგონავტების მითის მიხედვით კოლხეთის მეფეს ერქვა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ტიგრანი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "იასონი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "აიეტი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ჰერაკლე;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 8,
+        "Text": "8. ძვ. წ-ის VI საუკუნეში ისტორიული კოლხეთის ტერიტორიაზე ქალაქების დაარსება დაკავშირებულია:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ეგვიპტელებთან;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "ბერძნებთან;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "სპარსელებთან;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "რომაელებთან;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 9,
+        "Text": "9. მეფე ფარნავაზს ბრძოლაში ეხმარებოდა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ეხნატონი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ფილიპე II მაკედონელი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "ქუჯი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "აიეტი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 10,
+        "Text": "10. რამდენ ადმინისტრაციულ ნაწილად დაყო სამეფო ფარნავაზმა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "9;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "6;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "3;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "12;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 11,
+        "Text": "11. რომელ საუკუნეებში შეიქმნა ქართლის სამეფო?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ძვ. წ-ის XX-XIX სს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "ძვ. წ-ის IV-III სს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ძვ. წ-ის X-IX სს."
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ძვ. წ-ის XVI-XV სს;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 12,
+        "Text": "12. ფარნავაზმა ქართლის სამეფოს მთავარ ღმერთად გამოაცხადა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ზევსი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "გაცი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მარსი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "არმაზი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 13,
+        "Text": "13. მეფე ფარნავაზის დროს ქართლის სამეფოს დედაქალაქი იყო:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ერევანი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "თბილისი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "მცხეთა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ვანი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 14,
+        "Text": "14. ძვ. წ-ის I საუკუნეში, რომაელთა პირველი ლაშქრობისას, ქართლის მეფე იყო:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "არტაგი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "დავით აღმაშენებელი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ტიგრან დიდი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ბაგრატ მესამე;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 15,
+        "Text": "15. ძვ. წ-ის I საუკუნეში ჩამოთვლილთაგან საქართველოში ილაშქრა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "დარიოს I-მა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "იულიუს კეისარმა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "რამზეს II-მ;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "პომპეუსმა;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 16,
+        "Text": "16. II საუკუნეში ჩამოთვლილთაგან ვის დაუპირისპირდა ქართლის მეფე ფარსმან II ქველი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "სპარსეთის მეფე ქსერქსეს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "პონტოს მეფე მითრიდატეს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "სომხეთის მეფე ტიგრანს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "რომის იმპერატორ ადრიანეს;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 17,
+        "Text": "17. ქართლის რომელი მეფის ვიზიტი შედგა რომში II საუკუნეში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ფარნავაზის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "ფარსმან II ქველის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მირიანის;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ვახტანგ გორგასლის;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 18,
+        "Text": "18. რომელ სახელმწიფოში იყო მიწვეული ფარსმან II ქველი ოჯახთან ერთად?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ურარტუში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "რომის იმპერიაში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "არაბთა სახალიფოში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "სასანურ ირანში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 19,
+        "Text": "19. საქართველოში ქრისტიანობის ქადაგება დაიწყეს:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "IX საუკუნიდან;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "IV საუკუნიდან;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "VII საუკუნიდან;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "I საუკუნიდან;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 20,
+        "Text": "20. ქართლის რომელ მეფეს დაუდგეს ქანდაკება რომში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "ფარსმან II-ს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ფარნავაზს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მირიანს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ვახტანგ გორგასალს;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 21,
+        "Text": "21. 325 წელს ბიჭვინთის ეპისკოპოსი ესწრებოდა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ეკუმენისტურ კრებას;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "თბილისში გამართულ სამეფო ნადიმს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "მსოფლიოს I საეკლესიო კრებას;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "რუსულ საეკლესიო კრებას;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 22,
+        "Text": "22. რომელ საუკუნეში გამოცხადდა საქართველოში ქრისტიანობა სახელმწიფო რელიგიად?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "I საუკუნეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "II საუკუნეში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "IV საუკუნეში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "III საუკუნეში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 23,
+        "Text": "23. რა მოხდა საქართველოში IV საუკუნეში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ქვეყანა დაიპყრეს არაბებმა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "ქრისტიანობა გახდა სახელმწიფო რელიგია;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მოხდა ქვეყნის გაერთიანება;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ქვეყანა დაიპყრეს რომაელებმა;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 24,
+        "Text": "24. ქართლის სამეფოს გაქრისტიანება უკავშირდება:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "იოანე ოქროპირს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "სიმონ კანანელს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ანდრია პირველწოდებულს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "წმ. ნინოს;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 25,
+        "Text": "25. ქართლის სამეფოში ქრისტიანობის სახელმწიფო რელიგიად გამოცხადება მოხდა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "მეფე გურგენის დროს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "მეფე ვახტანგ გორგასლის დროს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "მეფე მირიანის დროს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "მეფე გიორგის დროს;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 26,
+        "Text": "26. რა უკავშირდება ქართლის მეფე მირიანის სახელს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ქვეყნის დედაქალაქად მცხეთის გამოცხადება;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ოქროს ფულის მოჭრა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ახალი ქალაქების დაარსება და ეკონომიკური რეფორმები;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "ქრისტიანობის გამოცხადება სახელმწიფო რელიგიად;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 27,
+        "Text": "27. სადაური იყო წარმოშობით წმ. ნინო?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ჩეხი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "სომეხი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "კაპადოკიელი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ინდოელი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 28,
+        "Text": "28. ალან-ოსთა და სხვა მომთაბარე ტომები საქართველოს ესაზღვრებოდნენ:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "სამხრეთიდან;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "ჩრდილოეთიდან;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "აღმოსავლეთიდან;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "დასავლეთიდან;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 29,
+        "Text": "29. პირველი ქართული ლიტერატურული ნაწარმოები „შუშანიკის წამება“ შეიქმნა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "I საუკუნეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "XVIII საუკუნეში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "XII საუკუნეში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "V საუკუნეში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 30,
+        "Text": "30. ქართული ლიტერატურული ნაწარმოებებიდან რომელია ყველაზე ძველი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "„შუშანიკის წამება“;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "„დავითიანი“;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "„ვეფხისტყაოსანი“;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "„სიბრძნე-სიცრუისა“;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 31,
+        "Text": "31. რომელ საუკუნეში მეფობდა ვახტანგ გორგასალი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "I საუკუნეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "V საუკუნეში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "XVIII საუკუნეში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "XII საუკუნეში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 32,
+        "Text": "32. V საუკუნეში მეფობდა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ფარნავაზი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ლაშა-გიორგი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ბაგრატ III;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "ვახტანგ გორგასალი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 33,
+        "Text": "33. ვახტანგ გორგასალი დაიღუპა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ოსმალებთან ბრძოლაში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "არაბებთან ბრძოლაში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "სპარსელებთან ბრძოლაში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ასურელებთან ბრძოლაში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 34,
+        "Text": "34. რომელ საუკუნეში გახდა თბილისი ქართლის სამეფოს დედაქალაქი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "I საუკუნეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "III საუკუნეში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "VII საუკუნეში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "V საუკუნეში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 35,
+        "Text": "35. „გორგასალი“ ნიშნავს:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "„ლომისთავას“;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "„მგლისთავას“;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "„დათვისთავას“;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "„ვეფხვისთავას“;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 36,
+        "Text": "36. ქართლის სამეფოში რომელი რელიგიის გავრცელების წინააღმდეგ იბრძოდა მეფე ვახტანგ გორგასალი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "არმაზის კულტის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ისლამის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "იუდაიზმის;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "მაზდეანობის;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 37,
+        "Text": "37. VI საუკუნეში დასავლეთ საქართველოზე ბატონობისთვის ერთმანეთს უპირისპირდებოდნენ:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "რუსეთი და თურქეთი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "რომი და კართაგენი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "სპარსეთი და ბიზანტია;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "არაბები და მონღოლები;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 38,
+        "Text": "38. არაბებმა პირველად საქართველოში ილაშქრეს:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "I საუკუნეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "III საუკუნეში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "VII საუკუნეში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "XII საუკუნეში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 39,
+        "Text": "39. საქართველოს რომელ ქალაქში იყო არაბი ამირას რეზიდენცია?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "მცხეთაში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "წალენჯიხაში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ბათუმში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "თბილისში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 40,
+        "Text": "40. სადაური იყო მურვან ყრუ?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ირანელი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ბიზანტიელი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "არაბი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "მონღოლი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 41,
+        "Text": "41. რომელ საუკუნეში ილაშქრა საქართველოში მურვან-ყრუმ?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "II საუკუნეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "VIII საუკუნეში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "IV საუკუნეში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "XII საუკუნეში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 42,
+        "Text": "42. VII საუკუნეში რა შემთხვევაში თავისუფლდებოდა ქართველი არაბული გადასახადისგან?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "თუ მიიღებდა ისლამს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "თუ ათი წლის გადასახადს ერთიანად გადაიხდიდა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "თუ ხუთი წლის გადასახადს ერთიანად გადაიხდიდა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "თუ პირადობის მოწმობის ეროვნების გრაფაში მიუთითებდა „არაბს“."
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 43,
+        "Text": "43. სადაური იყო ქრისტიანობის აღიარებისთვის სიკვდილით დასჯილი აბო?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ირანელი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "არაბი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "რომაელი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "თურქი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 44,
+        "Text": "44. ვის სახელთანაა დაკავშირებული საქართველოში VIII-IX საუკუნეების სამონასტრო აღმშენებლობა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "გრიგოლ ხანძთელთან;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "წმ. ნინოსთან;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მეფე მირიანთან;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "სულხან-საბა ორბელიანთან;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 45,
+        "Text": "45. კლდეკარის საერისთავო ეკუთვნოდათ:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ბაგრატიონებს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "ბაღვაშებს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "დადიანებს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "მხარგრძელებს;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 46,
+        "Text": "46. საქართველოს გაერთიანებას დავით III კურაპალატთან ერთად სათავეში ედგა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "გიორგი სააკაძე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "გრიგოლ ხანძთელი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "იოანე მარუშისძე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "სულხან-საბა ორბელიანი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 47,
+        "Text": "47. ერთიანი საქართველოს პირველი მეფე იყო:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "დავით III;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "ბაგრატ III;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ვახტანგ გორგასალი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "გიორგი V;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 48,
+        "Text": "48. რომელ საუკუნეში მოხდა საქართველოს გაერთიანება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "II საუკუნეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "VIII საუკუნეში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "XI საუკუნეში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "XVIII საუკუნეში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 49,
+        "Text": "49. რა მოხდა საქართველოში XI საუკუნეში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ეკლესიის მეთაური გახდა მეფე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "მოხდა ქვეყნის გაერთიანება;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "დაიწერა ვეფხისტყაოსანი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "მოხდა არაბების განდევნა;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 50,
+        "Text": "50. რომელი დინასტია ჩაუდგა სათავეში საქართველოს სამეფოს XI საუკუნეში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ლანკასტერები;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ვალუები;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "ბაგრატიონები;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ფარნავაზიანები;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 51,
+        "Text": "51. საქართველოს მეფე გიორგი I მეფობდა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "XI საუკუნეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "არ არსებობდა ასეთი მეფე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ქრისტიანობის სახელმწიფო რელიგიად გამოცხადების დროს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "XVIII საუკუნეში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 52,
+        "Text": "52. საქართველოს მეფე ბაგრატ IV მეფობდა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "I საუკუნეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "III საუკუნეში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "XVIII საუკუნეში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "XI საუკუნეში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 53,
+        "Text": "53. რომელ საუკუნეში შემოიჭრნენ პირველად საქართველოში თურქ-სელჩუკები?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "XX საუკუნეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "XI საუკუნეში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "XXI საუკუნეში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "V საუკუნეში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 54,
+        "Text": "54. რა მოვლენას ჰქონდა ადგილი XI საუკუნის საქართველოში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "„დიდ თურქობას“;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ქრისტიანობის სახელმწიფო რელიგიად გამოცხადებას;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ლარის გაუფასურებას;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "რუსულ ოკუპაციას;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 55,
+        "Text": "55. საქართველოს რომელმა მეფემ იკისრა სელჩუკებთან ხარკი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ფარსმან II-მ;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "გიორგი II-მ;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "აშოტ I-მა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "დავით აღმაშენებელმა;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 56,
+        "Text": "56. ვისი მამა იყო საქართველოს მეფე გიორგი II?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ერეკლე მეორის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "გუბაზ ლაზთა მეფის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "უშვილო იყო;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "დავით აღმაშენებლის;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 57,
+        "Text": "57. რომელ საუკუნეში აიგო სვეტიცხოველის ტაძარი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "XI საუკუნეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "V საუკუნეში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "I საუკუნეში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "XVIII საუკუნეში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 58,
+        "Text": "58. რომელ წელს გამეფდა დავით აღმაშენებელი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "889 წელს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "1289 წელს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "789 წელს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "1089 წელს;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 59,
+        "Text": "59. რომელ საერისთავოს ფლობდა ლიპარიტ ბაღვაში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "იმერეთის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "სამცხის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "კლდეკარის;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "სამეგრელოს;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 60,
+        "Text": "60. რა მოხდა რუის-ურბნისში:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "მეფე დავითმა დაამარცხა თურქები;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "გარდაიცვალა დავით IV;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მეფე დავითმა შეიპყრო მოწინააღმდეგე ფეოდალები;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "ჩატარდა საეკლესიო კრება;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 61,
+        "Text": "61. სადაა დაკრძალული დავით აღმაშენებელი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "გელათში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ალავერდში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "სვეტიცხოველში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ბედიაში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 62,
+        "Text": "62. რომელ წელს გარდაიცვალა დავით აღმაშენებელი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "825 წელს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "1225 წელს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "925 წელს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "1125 წელს;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 63,
+        "Text": "63. დავით აღმაშენებელმა რომელი ქალაქი გამოაცხადა საქართველოს სამეფოს დედაქალაქად?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ტრაპიზონი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "მცხეთა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "თბილისი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ფაზისი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 64,
+        "Text": "64. რომელი ბრძოლა მოიგო დავით აღმაშენებელმა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "შამქორის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "დიდგორის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ბასიანის;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "გარნისის;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 65,
+        "Text": "65. რომელ წელს მოხდა დიდგორის ბრძოლა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "1003 წელს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "1072 წელს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "1200 წელს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "1121 წელს;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 66,
+        "Text": "66. დავით აღმაშენებელმა ჩამოასახლა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "მონღოლები;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "რუსები;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "ყივჩაღები;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ვიკინგები;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 67,
+        "Text": "67. რა მოხდა საქართველოში 1121 წელს? იერუსალიმში; ჯარი;",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს სამეფო კარი ჩაება IV ჯვაროსნული ლაშრობის ორგანიზების საქმეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "დავით აღმაშენებელი ოფიციალურად გახდა ქრისტეს საფლავის მცველი"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "დიდგორის ბრძოლაში დავით აღმაშენებელმა დაამარცხა თურქების კოალიციური"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "შეიქმნა საქართველო-სომხეთ-აზერბაიჯანის კონფედერაცია;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 68,
+        "Text": "კოალიციური ჯარი; 68. სადაზვერვო სამსახური „მსტოვრები“ შექმნა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "დავით აღმაშენებელმა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ვახტანგ გორგასალმა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "თამარმა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "გიორგი ბრწყინვალემ;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 69,
+        "Text": "69. ვინ შემოიღო პირველად მწიგნობართუხუცეს-ჭყონდიდელის თანამდებობა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ერეკლე მეორემ;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "გიორგი ბრწყინვალემ;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "თამარ მეფემ;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "დავით აღმაშენებელმა;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 70,
+        "Text": "70. რომელმა მეფემ ააშენა გელათის მონასტერი და აკადემია?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ბაგრატ მესამემ;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ვახტანგ გორგასალმა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "დავით აღმაშენებელმა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "დემეტრე თავდადებულმა;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 71,
+        "Text": "71. ვინ იყო საქართველოს მეფე გიორგი მესამის მემკვიდრე?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "თამარ მეფე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ვარსქენ პიტიახში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ერეკლე მეორე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ფარსმან ქველი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 72,
+        "Text": "72. ვინ იყო პირველი ქალი მეფე საქართველოში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "რუსუდანი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ქეთევან წამებული;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "შუშანიკი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "თამარ მეფე;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 73,
+        "Text": "73. რა უნდა რქმეოდა ყუთლუ-არსლანის დასის წევრთა მიერ მოწვეულ საკანონმდებლო ორგანოს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "„პარლამენტი“;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "„კარავი“;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "„სენატი“;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "„კონგრესი“;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 74,
+        "Text": "74. ვისი თანამედროვე იყო შოთა რუსთაველი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "თამარ მეფის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ქეთევან წამებულის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "წმინდა ნინოს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "არცერთის;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 75,
+        "Text": "75. ვინ იყო გიორგი რუსი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "თამარ მეფის სარდალი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "რუსეთის ელჩი თამარ მეფის კარზე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "თამარ მეფის პირველი ქმარი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "თამარ მეფის გამზრდელი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 76,
+        "Text": "76. მეფე თამარის დროს ქართულმა ჯარმა ილაშქრა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ჩინეთში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ინდოეთში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "რუსეთში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "ირანში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 77,
+        "Text": "77. რომელ საუკუნეში დაიწერა „ვეფხისტყაოსანი“:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "V საუკუნეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "XII საუკუნეში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "IX საუკუნეში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "XVII საუკუნეში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 78,
+        "Text": "78. ვინ იყო შოთა რუსთაველი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ქართველი წმინდანი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ქართველი სარდალი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ქართველი მოგზაური;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "ქართველი პოეტი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 79,
+        "Text": "79. რა მოხდა XII საუკუნეში საქართველოში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ქრისტიანობა გამოცხადდა სახელმწიფო რელიგიად;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "დამთავრდა მონღოლთა ბატონობა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "დაიწერა „ვეფხისტყაოსანი“;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს ერთიანი სამეფო დაიშალა რამდენიმე ნაწილად;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 80,
+        "Text": "80. რომელი მეფის დროს მოხდა შამქორის ბრძოლა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "დავით კურაპალატის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "თამარ მეფის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ერეკლე მეორის;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ვახტანგ გორგასლის;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 81,
+        "Text": "81. თამარის ლაშქარმა რუმის სულთანი დაამარცხა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "ბასიანთან;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "კრწანისთან;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "დიდგორთან;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ფარცხისთან;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 82,
+        "Text": "82. რომელ საუკუნეში მოხდა ბასიანის ბრძოლა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "IV საუკუნეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "XIII საუკუნეში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "VIII საუკუნეში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "XV საუკუნეში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 83,
+        "Text": "83. ვის სახელს უკავშირდება „ასიათასი მოწამის“ სიკვდილით დასჯა მეტეხის ხიდთან?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "იულიუს კეისრის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "პეტრე პირველის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "ჯალალ ედ-დინის;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ჩინგიზ ხანის;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 84,
+        "Text": "84. თამარ მეფის გარდაცვალების შემდეგ გამეფდა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "რუსუდანი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "ლაშა-გიორგი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "დემეტრე II;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "გიორგი V;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 85,
+        "Text": "85. პირველად რომელ საუკუნეში გამოჩნდა მონღოლთა ჯარი საქართველოში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "XIII საუკუნეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "V საუკუნეში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "IX საუკუნეში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "XVIII საუკუნეში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 86,
+        "Text": "86. საქართველოში მონღოლთა პირველი ლაშქრობისას ქვეყნის მეფე იყო:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "თამარი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "გიორგი VIII;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ვახტანგ VI;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "ლაშა-გიორგი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 87,
+        "Text": "87. რომელ საუკუნეში მეფობდა საქართველოში ლაშა-გიორგი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "VII საუკუნეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "IX საუკუნეში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "XIII საუკუნეში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "XI საუკუნეში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 88,
+        "Text": "88. რას ნიშნავდა მონღოლურად დავით ულუ და დავით ნარინი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "დავით ბედნიერი და დავით უბედური;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "დავით უფროსი და დავით უმცროსი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "დავით იღბლიანი და დავით უიღბლო;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "დავით კანონიერი და დავით უკანონო;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 89,
+        "Text": "89. ვინ დაიპყრო საქართველო XIII საუკუნეში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "მონღოლებმა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "რომის იმპერიამ;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ბიზანტიამ;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "რუსეთმა;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 90,
+        "Text": "90. ვისი შვილი იყო მეფე რუსუდანი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "დავით აღმაშენებლის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "გიორგი ბრწყინვალის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ბაგრატ მესამის;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "თამარ მეფის;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 91,
+        "Text": "91. თამარის გარდა კიდევ რომელი მეფე ქალი მართავდა საქართველოს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "რუსუდანი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "შუშანიკი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ნანა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "მარიამი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 92,
+        "Text": "92. რა უწოდა ისტორიოგრაფიამ საქართველოში დემეტრე მეორეს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ავ-დემეტრე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "თავდადებული;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ქველი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "აღმაშენებელი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 93,
+        "Text": "93. საქართველოს მეფე დემეტრე II სიკვდილით დასაჯეს:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ბიზანტიელებმა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "თურქ-სელჩუკებმა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "მონღოლებმა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ვიკინგებმა;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 94,
+        "Text": "94. საქართველოს რომელი მეფე დასაჯეს სიკვდილით მონღოლებმა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "დემეტრე II;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "დავით V;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "გიორგი I;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "დავით IX;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 95,
+        "Text": "95. XIV საუკუნეში საქართველოში მეფობდა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "დავით III;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "გიორგი V ბრწყინვალე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "დავით აღმაშენებელი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ვახტანგ VI;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 96,
+        "Text": "96. რომელ საუკუნეში მეფობდა საქართველოში გიორგი V ბრწყინვალე?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "VI საუკუნეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "IX საუკუნეში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "XIV საუკუნეში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "XI საუკუნეში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 97,
+        "Text": "97. რომელმა მეფემ განდევნა მონღოლები საქართველოდან საბოლოოდ?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "დავით აღმაშენებელმა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "გიორგი V ბრწყინვალემ;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "თამარმა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ალექსანდრე I-მა;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 98,
+        "Text": "98. ჩამოთვლილთაგან რომელმა მათგანმა ილაშქრა საქართველოში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "თემურ-ლენგმა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ქსერქსემ;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "იუსტინიანე I-მა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ატილამ;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 99,
+        "Text": "99. რამდენჯერ ილაშქრა თემურ-ლენგმა საქართველოში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "2-ჯერ;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "არ ულაშქრია;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "15-ჯერ;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "8-ჯერ;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 100,
+        "Text": "100. რა იყო თემურ ლენგის საქართველოში ლაშქრობების შედეგი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველომ მიიღო ისლამი სახელმწიფო რელიგიად;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "ქვეყანა აოხრდა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მხარეებმა გააფორმეს მოკავშირეობის ხელშეკრულება;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "თემურ ლენგი სასტიკად დამარცხდა;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 101,
+        "Text": "101. რას ნიშნავს „ლენგი“?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "კოჭლს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "მათხოვარს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "კუზიანს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ცალთვალას;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 102,
+        "Text": "102. რომელ საუკუნეში დაიშალა საქართველოს სამეფო რამდენიმე ნაწილად?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "XV საუკუნეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "XII საუკუნეში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "XI საუკუნეში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "XVIII საუკუნეში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 103,
+        "Text": "103. ერთიანი საქართველოს უკანასკნელი მეფე იყო:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ვახტანგ გორგასალი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "დავით აღმაშენებელი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "გიორგი VIII;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "თამარი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 104,
+        "Text": "104. რა მოხდა XV საუკუნეში საქართველოში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ქვეყნის ერთ ნაწილში კათოლიკობა გახდა სახელმწიფო რელიგია;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს სამეფო დაიშალა რამდენიმე ნაწილად;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველო დაიპყრო რუსეთმა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველო ჩაერთო ჯვაროსნულ ლაშქრობაში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 105,
+        "Text": "105. 1412-1442 წლების საქართველოში მეფობდა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ვახტანგ გორგასალი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "ალექსანდრე I;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ერეკლე მეორე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "დავით აღმაშენებელი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 106,
+        "Text": "106. რამ გამოიწვია ერთიანი საქართველოს სამეფო-სამთავროებად დაშლა XV საუკუნეში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "დინასტიურმა ქორწინებამ;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ბოლშევიკთა აჯანყებამ;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველო არ დაშლილა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "მეფის ცენტრალური ხელისუფლების შესუსტებამ;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 107,
+        "Text": "107. ვინ იყვნენ ერთმანეთისთვის ქართლის მეფეები ლუარსაბ I და სიმონ I?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "მამა-შვილი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ძმები;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ბიძაშვილები;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "არ ყოფილან ნათესავები;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 108,
+        "Text": "108. 1555 წელს დადებული ამასიის ზავით საქართველო გაინაწილეს:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "სპარსეთმა და ოსმალეთმა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ოსმალეთმა და საფრანგეთმა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "სპარსეთმა და მონღოლეთმა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ბიზანტიამ და სპარსეთმა;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 109,
+        "Text": "109. ქართველების ფერეიდანში გადასახლება დაკავშირებულია:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "შაბურ I-თან;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "შაჰ-აბასთან;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "დარიოს III-თან;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "აღა-მაჰმად ხანთან;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 110,
+        "Text": "110. ჩამოთვლილთაგან რომელი მათგანი დასაჯა სიკვდილით შაჰ-აბასმა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "გიორგი სააკაძე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ერეკლე II;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "ქეთევან დედოფალი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "სულხან-საბა ორბელიანი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 111,
+        "Text": "111. გიორგი სააკაძე იბრძოდა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "მონღოლების წინააღმდეგ;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "რუსეთის წინააღმდეგ;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "კათოლიკეების წინააღმდეგ;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "სპარსეთის წინააღმდეგ;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 112,
+        "Text": "112. რომელ საუკუნეში ილაშქრა შაჰ-აბასმა საქართველოში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "XVII საუკუნეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "XI საუკუნეში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "XIV საუკუნეში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "VIII საუკუნეში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 113,
+        "Text": "113. რომელ საუკუნეში მოხდა მარაბდისა და მარტყოფის ბრძოლები:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "VII საუკუნეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "XVII საუკუნეში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "XIII საუკუნეში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "X საუკუნეში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 114,
+        "Text": "114. მარაბდისა და მარტყოფის ბრძოლებში ქართველები იბრძოდნენ:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "სპარსელთა წინააღმდეგ;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "არაბთა წინააღმდეგ;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მონღოლთა წინააღმდეგ;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "რუსთა წინააღმდეგ;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 115,
+        "Text": "115. XVIII საუკუნეში მეფობდა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ვახტანგ გორგასალი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "დავით გურამიშვილი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "გიორგი ბრწყინვალე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "ვახტანგ VI;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 116,
+        "Text": "116. ვახუშტი ბატონიშვილი იყო:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ექიმი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "არქიტექტორი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "გეოგრაფი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "იურისტი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 117,
+        "Text": "117. „სიბრძნე სიცრუისა“ დაწერა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "სულხან-საბა ორბელიანმა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "შოთა რუსთაველმა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "გიორგი სააკაძემ;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ერეკლე მეორემ;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 118,
+        "Text": "118. საქართველოში პირველად სტამბის გახსნა უკავშირდება:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "გიორგი სააკაძეს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ერეკლე II-ს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "ვახტანგ VI-ს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ილია ჭავჭავაძეს;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 119,
+        "Text": "119. სად გაგზავნა ვახტანგ VI-მ დიპლომატიური მისიით სულხან-საბა ორბელიანი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "საფრანგეთში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "მონღოლეთში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "აშშ-ში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ალჟირში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 120,
+        "Text": "120. ერეკლე II მეფობდა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "IX საუკუნეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "XIII საუკუნეში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "XVIII საუკუნეში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "V საუკუნეში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 121,
+        "Text": "121. 1744 წელს, სპარსელთა საუკუნოვანი ბატონობის შემდეგ, პირველად კახეთის რომელი მეფე ეკურთხა ქრისტიანული წესით მეფედ?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "დემეტრე I;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "დავით ნარინი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "ერეკლე II;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ბაგრატ V;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 122,
+        "Text": "122. კრწანისის ბრძოლა გაიმართა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "X საუკუნეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "XVIII საუკუნეში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "XVI საუკუნეში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "III საუკუნეში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 123,
+        "Text": "123. ვისთან დამარცხდა მეფე ერეკლე მეორე კრწანისის ბრძოლაში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "რუსებთან;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ფრანგებთან;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მონღოლებთან;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "სპარსელებთან;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 124,
+        "Text": "124. რომელ წელს გაფორმდა „გეორგიევსკის ტრაქტატი“?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "1783 წელს."
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "1578 წელს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "1659 წელს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "1492 წელს;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 125,
+        "Text": "125. რომელი ქვეყნის მფარველობაში შევიდა ქართლ-კახეთის სამეფო მეფე ერეკლეს მიერ „გეორგიევსკის ტრაქტატის“ ხელმოწერით?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საფრანგეთის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ინგლისის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "რუსეთის;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "აშშ-ს;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 126,
+        "Text": "126. რა ვალდებულებას იღებდა რუსეთის იმპერია ქართლ-კახეთის სამეფოს წინაშე „გეორგიევსკის ტრაქტატის“ მიხედვით?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ქართლ-კახეთის სამეფოს რუსეთის შემადგენლობაში შეყვანის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "გარეშე მტრისგან დაცვის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "აფხაზეთის საქართველოსთვის დაბრუნების;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "გრანტის გამოყოფის;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 127,
+        "Text": "127. სპარსეთის რომელ მმართველთან ბრძოლაში დამარცხდა მეფე ერეკლე II?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "თემურ ლენგი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "შაჰ აბასი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ნადირ შაჰი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "აღა-მაჰმად ხანი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 128,
+        "Text": "128. ქართლ-კახეთის უკანასკნელი მეფე იყო:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "გიორგი XII;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "თამარი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ერეკლე II;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "გიორგი სააკაძე;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 129,
+        "Text": "129. რომელმა ქვეყანამ დაიპყრო საქართველო XIX საუკუნეში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ოსმალეთმა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ჩინეთმა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ირანმა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "რუსეთმა;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 130,
+        "Text": "130. რომელ საუკუნეში დაიპყრო რუსეთმა საქართველო?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "XI საუკუნეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "XIX საუკუნეში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "XVII საუკუნეში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "XIV საუკუნეში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 131,
+        "Text": "131. რომელი დინასტიის მმართველობა დაასრულა საქართველოში რუსეთის იმპერიამ?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ბურბონების;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ფეჰლევების;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "ბაგრატიონების;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ტიუდორების;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 132,
+        "Text": "132. ვინ იყო იმერეთის უკანასკნელი მეფე?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ბაგრატ მესამე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "სოლომონ მეორე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "გუბაზ პირველი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "თეოდოს მეორე;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 133,
+        "Text": "133. XIX საუკუნეში საქართველოს ეკლესიის ავტოკეფალია გააუქმეს:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "რუსებმა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "რომის პაპმა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მონღოლებმა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "არაბებმა;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 134,
+        "Text": "134. XIX საუკუნეში რუსეთის იმპერიაში საქართველო იყო:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ფედერალური შტატის სახით;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ავტონომიის სახით;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "გუბერნიებისა და ოლქების სახით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს სამეფოს სახით;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 135,
+        "Text": "135. საქართველოში XIX საუკუნის პირველ ნახევარში ვის წინააღმდეგ მიმდინარეობდა აჯანყებები?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ინგლისის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "თურქეთის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ირანის;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "რუსეთის;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 136,
+        "Text": "136. რომელ წელს გააუქმა და მიიერთა რუსეთის იმპერიამ იმერეთის სამეფო?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "1810 წელს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "1921 წელს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "არ გაუუქმებია;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "1710 წელს;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 137,
+        "Text": "137. XIX საუკუნეში სამხრეთ კავკასიისთვის (მათ შორის, საქართველოსთვის) იბრძოდნენ:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "გერმანია, იტალია და ესპანეთი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ავღანეთი, ჩინეთი და ავსტრია-უნგრეთი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "რუსეთი, თურქეთი და სპარსეთი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ინგლისი, საფრანგეთი და პორტუგალია;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 138,
+        "Text": "138. XIX საუკუნეში რუსეთის მიერ დანიშნულ კავკასიის პროვინციის მმართველს ერქვა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "მეფისნაცვალი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "კაუდილიო;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ბეგლარბეგი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ფაშა;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 139,
+        "Text": "139. რა იგეგმებოდა 1832 წელს საქართველოში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "რუსეთის იმპერატორის ვიზიტი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "ანტირუსული აჯანყება;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "დიდი კონცერტი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ილია ჭავჭავაძის ქორწილი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 140,
+        "Text": "140. ვინ იყო მიხეილ ვორონცოვი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ნაპოლეონ ბონაპარტეს მზარეული;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ინგლისელი მეკობრე და ზღვაოსანი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "რუსეთის მეფისნაცვალი კავკასიაში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ცნობილი ესპანელი კონკისტადორი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 141,
+        "Text": "141. ვინ გადაასახლა რუსეთმა საქართველოს ტერიტორიიდან ოსმალეთში 1864- 1878 წლებში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "აფხაზები;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "სომხები;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ბერძნები;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ოსები;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 142,
+        "Text": "142. ვისთან ბრძოლაში დაიკავა საქართველოს ისტორიული მხარეები რუსეთმა XIX საუკუნეში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ავღანეთთან;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ინგლისთან;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "ოსმალეთთან;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ავსტრიასთან;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 143,
+        "Text": "143. XIX საუკუნეში სამცხე-ჯავახეთის ტერიტორიაზე რუსეთის ხელისუფლებამ ჩამოასახლა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ირლანდიელები;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "სომხები;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ბურები;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ავღანელები;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 144,
+        "Text": "144. რომელ პერიოდში გამოდიან ასპარეზზე „თერგდალეულები?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "XIX საუკუნეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "XIV საუკუნეში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "XVII საუკუნეში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "XI საუკუნეში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 145,
+        "Text": "145. ვინ იყო „მესამე დასის“ ლიდერი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "მიხეილ ვორონცოვი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "იოსებ სტალინი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ედუარდ შევარდნაძე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "ნოე ჟორდანია;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 146,
+        "Text": "146. ვის ეკუთვნის სიტყვები: „მამული, ენა, სარწმუნოება“?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ერეკლე მეორეს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "გიორგი სააკაძეს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "ილია ჭავჭავაძეს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ზვიად გამსახურდიას;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 147,
+        "Text": "147. ვინ იყო ,,თერგდალეულთა,, ლიდერი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "ილია ჭავჭავაძე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ვასილ მჟავანაძე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "სოლომონ დოდაშვილი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "სოლომონ ლიონიძე;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 148,
+        "Text": "148. რომელ საუკუნეში შეიქმნა „ქართველთა შორის წერა-კითხვის გამავრცელებელი საზოგადოება“?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "V საუკუნეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "XIX საუკუნეში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "XV საუკუნეში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "X საუკუნეში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 149,
+        "Text": "149. ჩამოთვლილთაგან განათლების სფეროში მოღვაწეობდა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "იოანე მარუშისძე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ლავრენტი ბერია;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "იაკობ გოგებაშვილი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "გიორგი სააკაძე;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 150,
+        "Text": "150. ჩამოთვლილთაგან რომელი იყო პოეტი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "გიორგი ჭყონდიდელი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "აკაკი წერეთელი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ვახუშტი ბატონიშვილი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ზაქარია მხარგრძელი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 151,
+        "Text": "151. ჩამოთვლილთაგან რომელი მოკლეს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "ილია ჭავჭავაძე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "შოთა რუსთაველი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "სულხან-საბა ორბელიანი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "მეფე ბაგრატ III;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 152,
+        "Text": "152. რომელ საუკუნეში მოკლეს ილია ჭავჭავაძე?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "XII საუკუნეში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "XV საუკუნეში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "XX საუკუნეში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "XVIII საუკუნეში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 153,
+        "Text": "153. რომელ გაზეთს გამოსცემდა ილია ჭავჭავაძე?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "„ივერიას“;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "„კომუნისტს“;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "„ჯორჯიან ნიუსს“;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "„პრავდას“;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 154,
+        "Text": "154. ჩამოთვლილთაგან რომელი არ ყოფილა „თერგდალეული“?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ილია ჭავჭავაძე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ნიკო ნიკოლაძე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "აკაკი წერეთელი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "გიორგი ჭყონდიდელი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 155,
+        "Text": "155. ჩამოთვლილთაგან რომელი შეეწირა რუსულ მმართველობას საქართველოში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "დავით ულუ;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "დიმიტრი ყიფიანი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მაია წყნეთელი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "სიმონ I;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 156,
+        "Text": "156. რომელი პოლიტიკური პარტიის ლიდერი იყო არჩილ ჯორჯაძე?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "მოქალაქეთა კავშირის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "აღორძინების;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ნაციონალური მოძრაობის;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "სოციალისტ-ფედერალისტთა პარტიის;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 157,
+        "Text": "157. რა მოხდა ქართული ეკლესიის ისტორიაში 1917 წელს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "არაფერი არ მომხდარა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "აღინიშნა პატრიარქის აღსაყდრების 40 წლისთავი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "გაუქმდა ავტოკეფალია;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "აღდგა ავტოკეფალია;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 158,
+        "Text": "158. ვინ აირჩიეს საქართველოს კათალიკოს-პატრიარქად 1917 წელს??",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "კირიონი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "დავით გარეჯელი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "შალვა ახალციხელი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ლეონტი მროველი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 159,
+        "Text": "159. საქართველომ დამოუკიდებლობა მოიპოვა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "1801 წელს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "1918 წელს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "1863 წელს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "1953 წელს;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 160,
+        "Text": "160. 1918 წელს საქართველომ დამოუკიდებლობა მოიპოვა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "იაპონიის დახმარებით;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ჩინეთის დახმარებით;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "რუსეთის დახმარებით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "გერმანიის დამხარებით;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 161,
+        "Text": "161. ვინ იყო დამოუკიდებელი საქართველოს მთავრობის პირველი თავმჯდომარე?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "ნოე რამიშვილი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "სოლომონ დოდაშვილი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "არჩილ ჯორჯაძე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ლავრენტი ბერია;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 162,
+        "Text": "162. 1918-1921 წლებში საქართველოს დემოკრატიული რესპუბლიკის მთავრობის მეორე თავმჯდომარე იყო:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ივანე ჯავახიშვილი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "იოსებ სტალინი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ილია ჭავჭავაძე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "ნოე ჟორდანია;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 163,
+        "Text": "163. რა ერქვა 1918-1921 წლებში მთავრობის მიერ გამოშვებულ ფულად ნიშანს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "დოლარი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ფუნტი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "ბონი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ფრანკი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 164,
+        "Text": "164. 1919-1920 წელბში რომელი ქვეყნის წარმომადგენელი იყო ოლივერ უორდროპი სამხრეთ კავკასიაში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "იაპონიის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "დიდი ბრიტანეთის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "არგენტინის;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "რუსეთის;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 165,
+        "Text": "165. ჩამოთვლილთაგან რომელია თბილისის უნივერსიტეტის დამაარსებელი 1918 წელს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "ივანე ჯავახიშვილი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "იაკობ გოგებაშვილი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ვახტანგ VI;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "გრიგოლ ორბელიანი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 166,
+        "Text": "166. რომელი ქვეყნის ბატონობისგან გათავისუფლდა საქართველო 1918 წელს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "აშშ-გან;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "იაპონიისგან;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "გერმანიისგან;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "რუსეთისგან;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 167,
+        "Text": "167. რომელ წელს განხორციელდა საქართველოს ოკუპაცია?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "1712 წელს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "1783 წელს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "1921 წელს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "1878 წელს;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 168,
+        "Text": "168. 1921 წელს საქართველოს ოკუპაცია განახორციელა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "საბჭოთა რუსეთმა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "იაპონიამ;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "იტალიამ;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "გერმანიამ;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 169,
+        "Text": "169. რომელი ორგანიზაციის წევრი ვერ გახდა საქართველო 1920 წელს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "გაეროს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "ერთა ლიგის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ნატოს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ეუთოს;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 170,
+        "Text": "170. 1919 წელს რომელმა ქვეყანამ აღიარა ოფიციალურად საქართველოს დემოკრატიული რესპუბლიკის დამოუკიდებლობა პირველმა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "პაკისტანმა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საბჭოთა რუსეთმა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ჩრდილოეთმა კორეამ;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "არგენტინამ;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 171,
+        "Text": "171. 1921 წელს საქართველოს ოკუპაციას ხელმძღვანელობდა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "იოსებ სტალინი"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ვილჰემლ II;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ვუდრო ვილსონი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "მაო ძედუნი"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 172,
+        "Text": "172. 1921 წელს რუსეთის ჯარის გარდა კიდევ ვისთან უხდებოდა ბრძოლა საქართველოს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ინგლისელებთან;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ავღანელებთან;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ინდოელებთან;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "თურქებთან;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 173,
+        "Text": "173. რომელი სახელმწიფოს შემადგენლობაში აღმოჩნდა საქართველო 1922 წელს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "საბჭოთა კავშირის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "აშშ-ის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "დიდი ბრიტანეთის თანამეგობრობის;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ესპანეთის;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 174,
+        "Text": "174. 1921 წელს რომელ ქვეყანაში წავიდა ემიგრაციაში საქართველოს დემოკრატიული რესპუბლიკის მთავრობა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "მექსიკაში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "საფრანგეთში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "არგენტინაში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "სამხრეთ აფრიკაში;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 175,
+        "Text": "175. XX საუკუნის 20-იან წლებში ანტისაბჭოთა აჯანყების ერთ-ერთი მეთაური იყო:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "ქაქუცა ჩოლოყაშვილი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "გრიგოლ ორბელიანი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "გიორგი სააკაძე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "კონსტანტინე ლესელიძე;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 176,
+        "Text": "176. რომელ წელს მოხდა საქართველოში ანტისაბჭოთა აჯანყება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "1795 წელს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "1856 წელს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "1989 წელს"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "1924 წელს;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 177,
+        "Text": "177. რომელ წელს მიმდინარეობდა რეპრესიების მთავარი ტალღა საბჭოთა კავშირში (მათ შორის, საქართველოში)?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "1795 წელს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "1937 წელს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "877 წელს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "1980 წელს;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 178,
+        "Text": "178. 1924 წლის აჯანყების ერთ-ერთი ლიდერი იყო:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "ქაქუცა ჩოლოყაშვილი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ნიკოლოზ ბარათაშვილი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "სერგო ორჯონიკიძე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ილია ჭავჭავაძე;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 179,
+        "Text": "179. რომელი ქვეყნის წინააღმდეგ იყო მიმართული 1924 წლის აჯანყება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ინგლისის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "იაპონიის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "საბჭოთა კავშირის;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "იტალიის;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 180,
+        "Text": "180. მეორე მსოფლიო ომის დროს ქართველების უმრავლესობა იბრძოდა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "იაპონიის მხარეს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "საბჭოთა კავშირის მხარეს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "გერმანიის მხარეს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "პოლონეთის მხარეს;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 181,
+        "Text": "181. XX საუკუნის 30-იან წლებში საქართველოში მიმდინარე საბჭოთა რეპრესიებს სათავეში ედგა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "ლავრენტი ბერია;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ლევ ტროცკი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ბუდუ მდივანი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ედუარდ შევარდნაძე;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 182,
+        "Text": "182. 1956 წელს ვისი კულტის დასაცავად მიმდინარეობდა გამოსვლები თბილისში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ვლადიმერ ლენინის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "მაო ძედუნის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მაჰათმა განდის;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "იოსებ სტალინის;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 183,
+        "Text": "183. როდის მოხდა საქართველოში მშვიდობიანი მიტინგის დარბევა, რომელსაც მსხვერპლი მოჰყვა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "1801 წლის 12 სექტემბერს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "1905 წლის 5 იანვარს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "1989 წლის 9 აპრილს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "1944 წლის 27 იანვარს;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 184,
+        "Text": "184. 1989 წლის 9 აპრილს რომელი ქვეყნის სამხედრო ნაწილებმა დაარბიეს მშვიდობიანი მიტინგი თბილისში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ჩინეთის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "საბჭოთა კავშირის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "აშშ-ის;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ირანის;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 185,
+        "Text": "185. 1991 წლის 31 მარტის რეფერენდუმის მიხედვით, საქართველოს მოსახლეობის უმრავლესობამ:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "მხარი დაუჭირა საქართველოს დამოუკიდებლობას;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "მხარი დაუჭირა საბჭოთა კავშირში საქართველოს დარჩენას;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მხარი დაუჭირა სამხრეთ კავკასიის ფედერაციის შექმნას;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "მხარი დაუჭირა საქართველოს ნატოსა და ევროკავშირში გაწევრიანებას;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 186,
+        "Text": "186. საქართველოს პირველი პრეზიდენტი იყო:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ილია ჭავჭავაძე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "ზვიად გამსახურდია;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "დიმიტრი ყიფიანი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "მიხეილ სააკაშვილი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 187,
+        "Text": "187. რომელ წელს აღდგა საქართველოს დამოუკიდებლობა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "1863 წელს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "1909 წელს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "1991 წელს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "1950 წელს;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 188,
+        "Text": "188. ჩამოთვლილთაგან რომელი მათგანის ხელისუფლება დაამხეს ძალის გამოყენებით?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "ზვიად გამსახურდიას;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "გიორგი მაზნიაშვილის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ვასილ მჟავანაძის;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ალექსანდრე ორბელიანის;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 189,
+        "Text": "189. ჩამოთვლილთაგან რომელი მათგანი იბრძოდა საქართველოს დამოუკიდებლობისათვის?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "სერგო ორჯონიკიძე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "მერაბ კოსტავა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ფილიპე მახარაძე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "შადიმან ბარათაშვილი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 190,
+        "Text": "190. რომელი სახელმწიფოს დაშლის შემდეგ მოიპოვა საქართველომ დამოუკიდებლობა 1991 წელს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ბრიტანეთის იმპერიის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ჩეხოსლოვაკიის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "იუგოსლავიის;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "საბჭოთა კავშირის;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 191,
+        "Text": "191. რომელი ქვეყანა ეხმარებოდა აფხაზ და ოს სეპარატისტებს საქართველოს წინააღმდეგ ომში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "რუსეთი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ვენესუელა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ჩინეთი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "პაკისტანი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 192,
+        "Text": "192. საქართველოს მეორე პრეზიდენტი იყო:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "აკაკი წერეთელი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ნიკო ნიკოლაძე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "ედუარდ შევარდნაძე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ლავრენტი ბერია;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 193,
+        "Text": "193. რომელი ორგანიზაციის წევრი გახდა საქართველო 1999 წელს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ევრაზიული კავშირის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "ევროსაბჭოს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "არაბული ლიგის;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "დიდი ბრიტანეთის თანამეგობრობის;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 194,
+        "Text": "194. 1992 წელს საქართველო გახდა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ევროკავშირის წევრი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "არაბული ლიგის წევრი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მერკოსურის წევრი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "გაეროს წევრი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 195,
+        "Text": "195. რომელ წელს მოხდა „ვარდების რევოლუცია“ საქართველოში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "2003 წელს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "1960 წელს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "1987 წელს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "1925 წელს;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 196,
+        "Text": "196. ვინ იყო საქართველოს მესამე პრეზიდენტი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "მემედ აბაშიძე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ავლიპ ზურაბაშვილი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ტიციან ტაბიძე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "მიხეილ სააკაშვილი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 197,
+        "Text": "197. „ვარდების რევოლუციის“ შემდეგ საქართველოს ხელისუფლების სათავეში მოვიდა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "რეზო ამაშუკელი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ასლან აბაშიძე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "მიხეილ სააკაშვილი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ჯაბა იოსელიანი;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 198,
+        "Text": "198. რომელ წელს მოხდა საქართველო-რუსეთის ომი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "1913 წელს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "2008 წელს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "1984 წელს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "1939 წელს;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 199,
+        "Text": "199. დღეს რომელი სახელმწიფოს მიერაა საქართველოს ტერიტორიის 20% ოკუპირებული?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ისრაელის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ჩინეთის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "იაპონიის;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "რუსეთის;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 200,
+        "Text": "200. ჩამოთვლილთაგან რომელი სახელმწიფოა საქართველოს სტრატეგიული პარტნიორი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "აშშ;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "სამხრეთი კორეა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "სამხრეთი აფრიკა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ბრაზილია;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 201,
+        "Text": "201. ჩამოთვლილთაგან რომელი სახელმწიფო არ აღიარებს საქართველოს ოკუპირებული ტერიტორიების, აფხაზეთისა და ცხინვალის რეგიონის, დამოუკიდებლობას?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ნიკარაგუა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ნაურუ;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "ლიეტუვა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ვენესუელა;"
+            }
+        ]
+    },
+    {
+        "Topic": "history",
+        "Number": 202,
+        "Text": "202. ჩამოთვლილ სახელმწიფო მეთაურთაგან რომელს მიენიჭა საქართველოს ეროვნული გმირის წოდება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "იოსებ სტალინს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "ლეხ კაჩინსკის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ვლადიმერ პუტინს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "უგო ჩავესს"
+            }
+        ]
+    }
+]

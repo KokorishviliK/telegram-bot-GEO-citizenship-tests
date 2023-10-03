@@ -1,0 +1,5375 @@
+[
+    {
+        "Topic": "lawBasics",
+        "Number": 1,
+        "Text": "1. ვისგან შედგება საქართველოს მთავრობა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "პრემიერმინისტრისგან და პარლამენტის თავმჯდომარისგან;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "მთავრობა შედგება პრემიერმინისტრისა და მინისტრებისგან;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "პრემიერმინისტრისგან, პრეზიდენტისგან და მინისტრებისგან;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "პრემიერმინისტრისგან, პარლამენტის თავმჯდომარისგან და უზენაესი სასამართლოს თავმჯდომარისგან."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 2,
+        "Text": "2. რომელ პირებს ეზღუდებათ წინასწარი ნებართვის გარეშე საჯაროდ და უიარაღოდ შეკრების უფლება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "არასრულწლოვან და შეზღუდული შესაძლებლობის მქონე პირებს."
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ადგილობრივი თვითმმართველობის თანამშრომლებს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "პირებს, რომლებიც მსახურობენ საჯარო სამსახურში, მათ შორის, თავდაცვის ძალების შემადგენლობაში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "პირებს, რომლებიც იმყოფებიან თავდაცვის ძალების ან სახელმწიფო ან საზოგადოებრივი უსაფრთხოების დაცვაზე პასუხისმგებელი ორგანოების შემადგენლობაში;"
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 3,
+        "Text": "3. შეუძლია თუ არა საქართველოს მოქალაქეს, დატოვოს ქვეყნის ტერიტორია?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს მოქალაქეებს საქართველოდან გასვლისთვის სჭირდებათ სასამართლოს ნებართვა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს მოქალაქეებს საქართველოდან გასვლისთვის სჭირდებათ შინაგან საქმეთა სამინისტროს ნებართვა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "ყველას, ვინც კანონიერად იმყოფება საქართველოში, აქვს საქართველოდან თავისუფლად გასვლის უფლება;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოდან თავისუფლად გასვლის უფლება აქვთ მხოლოდ უცხოელებს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 4,
+        "Text": "4. ვის შეუძლია სასამართლოს გადაწყვეტილების გაუქმება, შეცვლა ან შეჩერება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "სასამართლოს გადაწყვეტილების გაუქმება, შეცვლა ან შეჩერება შეუძლია პრეზიდენტს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "სასამართლოს გადაწყვეტილების გაუქმება, შეცვლა ან შეჩერება შეუძლია მხოლოდ სასამართლოს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "სასამართლოს გადაწყვეტილების გაუქმება, შეცვლა ან შეჩერება შეუძლია საქართველოს სახალხო დამცველს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "სასამართლოს გადაწყვეტილების გაუქმება, შეცვლა ან შეჩერება შეუძლია გაერთიანებული ერების ორგანიზაციას."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 5,
+        "Text": "5. ვინ ამტკიცებს საქართველოს მთავრობას?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს უზენაესი სასამართლო ამტკიცებს პრემიერმინისტრობის კანდიდატის მიერ წარდგენილ მთავრობას;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პრეზიდენტი ნიშნავს მთავრობას პარლამენტის თავმჯდომარის წარდგინებით;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს პარლამენტი ნდობას უცხადებს პრემიერმინისტრობის კანდიდატის მიერ წარდგენილ მთავრობას;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს მოსახლეობა პირდაპირ ირჩევს საქართველოს მთავრობას."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 6,
+        "Text": "6. საქართველოს კონსტიტუციით, ვისი უფლებები უნდა დაიცვას სახელმწიფომ?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "ყველა ადამიანის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "მხოლოდ კაცების;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მხოლოდ საქართველოს მოქალაქეების;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "მხოლოდ ქალების."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 7,
+        "Text": "7. როგორ მოიპოვება საქართველოს მოქალაქეობა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "დაბადებით;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ნატურალიზაციით."
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მემკვიდრეობით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "დაბადებით და ნატურალიზაციით;"
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 8,
+        "Text": "8. საქართველოს კონსტიტუციით, შეიძლება თუ არა საქართველომ თავისი მოქალაქე გააძევოს საქართველოდან?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, საქართველოდან საქართველოს მოქალაქის გაძევება დასაშვებია, თუ საქართველოს მოქალაქე ჩაიდენს დანაშაულს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "არა, საქართველოდან საქართველოს მოქალაქის გაძევება დაუშვებელია;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, საქართველოდან საქართველოს მოქალაქის გაძევება დასაშვებია, თუ საქართველოს მოქალაქე დაარღვევს კანონს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, ჯერ მას საქართველოს მოქალაქეობა უნდა ჩამოერთვას."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 9,
+        "Text": "9. ვინ მეთაურობს საქართველოს მთავრობას?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "პარლამენტის თავმჯდომარე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "პრემიერმინისტრი და პრეზიდენტი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "პრემიერ-მინისტრი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "მეფე."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 10,
+        "Text": "10. დასაშვებია თუ არა ადამიანისთვის რელიგიის თავისუფლების შეზღუდვა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "დასაშვებია მხოლოდ კანონის შესაბამისად, დემოკრატიულ საზოგადოებაში აუცილებელი საზოგადოებრივი უსაფრთხოების უზრუნველყოფის, ჯანმრთელობის ან სხვათა უფლებების დაცვის მიზნით;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "დაუშვებელია რელიგიის თავისუფლების შეზღუდვა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "დასაშვებია საკონსტიტუციო სასამართლოს გადაწყვეტილებით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "გაეროს უშიშროების საბჭოს გადაწყვეტილებით."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 11,
+        "Text": "11. სჭირდებათ თუ არა ადამიანებს წინასწარი ნებართვა საჯაროდ და უიარაღოდ შეკრებისთვის?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "სჭირდებათ მხოლოდ უცხოელებს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "სჭირდებათ ადგილობრივი თვითმმართველობის ორგანოს ნებართვა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "სჭირდებათ პოლიციის ნებართვა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "არ სჭირდებათ."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 12,
+        "Text": "12. ვინ არის საქართველოს თავდაცვის ძალების უმაღლესი მთავარსარდალი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს თავდაცვის მინისტრი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს პრეზიდენტი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პარლამენტის თავმჯდომარე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს შეიარაღებული ძალების გენერალური შტაბის უფროსი."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 13,
+        "Text": "13. ვინ ამტკიცებს საქართველოს სახელმწიფო ბიუჯეტს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს პარლამენტი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პრეზიდენტი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს მთავრობა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს ფინანსთა სამინისტრო."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 14,
+        "Text": "14. რა არის საქართველო?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "მონარქია;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "დემოკრატია;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "დემოკრატიული რესპუბლიკა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "კონსტიტუციური მონარქია."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 15,
+        "Text": "15. ვინ არის სახელმწიფო ხელისუფლების წყარო?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "თბილისში მცხოვრები ხალხი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პარლამენტის წევრები;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ორგანიზაციები;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "ხალხი."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 16,
+        "Text": "16. საქართველოს კონსტიტუციით, შესაძლებელია თუ არა ადამიანის წამება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, ტერორიზმის საფრთხის შემთხვევაში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "არა, არცერთ გარემოებაში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, ტერორიზმის საფრთხის შემთხვევაში და სხვათა სიცოცხლის დაცვის მიზნით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, ომის პერიოდში."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 17,
+        "Text": "17. შესაძლებელია თუ არა პარლამენტის სხდომის დახურვა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "არავითარ შემთხვევაში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საგანგებო ან საომარი მდგომარეობის დროს ყველა სხდომა დახურულია;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "შესაძლებელია ცალკეული საკითხების განხილვისას სხდომის ან სხდომის ნაწილის დახურულად გამოცხადება;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს შეიარაღებული ძალების გენერალური შტაბის უფროსის ბრძანებით."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 18,
+        "Text": "18. რომელ უწყებას აქვს ფულის ემისიის უფლება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ფინანსურ პოლიციას."
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს ფინანსთა სამინისტროს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "სახელმწიფო აუდიტის სამსახურს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს ეროვნულ ბანკს;"
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 19,
+        "Text": "19. არის თუ არა საქართველო დამოუკიდებელი სახელმწიფო?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "კი, საქართველო დამოუკიდებელი სახელმწიფოა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, ის საბჭოთა კავშირის შემადგენლობაშია;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, ის რუსეთის შემადგენლობაშია;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, ის სახელმწიფო არ არის."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 20,
+        "Text": "20. დაასახელეთ საქართველოს უზენაესი კანონი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "კონსტიტუციური შეთანხმება საქართველოს სახელმწიფოსა და საქართველოს სამოციქულო ავტოკეფალურ მართლმადიდებელ ეკლესიას შორის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს კონსტიტუცია;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს სისხლის სამართლის კოდექსი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს კანონი უზენაესი სასამართლოს შესახებ."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 21,
+        "Text": "21. საქართველოს კონსტიტუციით, რა არის ბრალდებულის წინასწარი პატიმრობის მაქსიმალური ვადა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "21 დღე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "6 თვე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "2 წელიწადი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "9 თვე."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 22,
+        "Text": "22. როდის არის შეკრების შესახებ წინასწარი გაფრთხილება აუცილებელი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "თუ შეკრება ხალხის ან ტრანსპორტის სამოძრაო ადგილას იმართება;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "არასდროს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "თუ შეკრება ღია ცის ქვეშ იმართება;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "თუ შეკრება დახურულ სივრცეში იმართება."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 23,
+        "Text": "23. შესაძლებელია თუ არა ისეთი პოლიტიკური პარტიის შექმნა, რომელიც ომის ან ძალადობის პროპაგანდას ეწევა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, თუ ის იქმნება საქართველოს მოქალაქეების მიერ;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, თუ ის იქმნება უცხო ქვეყნის მოქალაქეების მიერ;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "არავითარ შემთხვევაში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, თუ ომის და ძალადობის რეალური საფრთხე სინამდვილეში არ არსებობს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 24,
+        "Text": "24. რომელი სქესის მოქალაქეებს აქვთ არჩევნებში მონაწილეობის უფლება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "მხოლოდ ქალებს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "არცერთს."
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მხოლოდ კაცებს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "ქალებს და კაცებს თანაბრად;"
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 25,
+        "Text": "25. ვისი თანხმობით შეიძლება სახალხო დამცველის დაკავება ან დაპატიმრება, მისი საცხოვრებელი ან სამუშაო ადგილის, მანქანის ან პირადი გაჩხრეკა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "არავითარ შემთხვევაში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს პარლამენტის თანხმობით;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პრეზიდენტის თანხმობით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს საკონსტიტუციო სასამართლოს თავმჯდომარის თანხმობით."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 26,
+        "Text": "26. შეიძლება თუ არა საქართველოს სახელმწიფოს ტერიტორიის გასხვისება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს სახელმწიფოს ტერიტორიის გასხვისება შეიძლება მეზობელ სახელმწიფოსთან შეთანხმებით;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს სახელმწიფოს ტერიტორიის გასხვისება დასაშვებია გამონაკლის შემთხვევებში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს სახელმწიფოს ტერიტორიის გასხვისება აკრძალულია;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს სახელმწიფოს ტერიტორიის გასხვისება დასაშვებია საერთაშორისო აუქციონის გზით."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 27,
+        "Text": "27. რა ეწოდება საქართველოს სახელმწიფოს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "რესპუბლიკა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს მონარქია;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს სამეფო;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველო."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 28,
+        "Text": "28. შესაძლებელია თუ არა კერძო საკუთრების საყოველთაო უფლების გაუქმება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "დაუშვებელია."
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "შესაძლებელია საომარი მდგომარეობის დროს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "შესაძლებელია კონსტიტუციური კანონის საფუძველზე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "შესაძლებელია იმ შეთხვევაში, თუ რეფერენდუმით ასე გადაწყდა;"
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 29,
+        "Text": "29. ვინ შეიძლება მიუსაჯოს ადამიანს თავისუფლების აღკვეთა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "პოლიციამ;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "მხოლოდ სასამართლომ;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "სასამართლომ, მაგრამ გამონაკლის შემთხვევაში, სპეციალურმა კომისიამ;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "პროკურატურამ."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 30,
+        "Text": "30. ვინ აკონტროლებს მთავრობის საქმიანობას?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს პარლამენტი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს მართლმადიდებლური ეკლესია;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პრეზიდენტი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს სახალხო დამცველი."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 31,
+        "Text": "31. ვინ დებს კონსტიტუციურ შეთანხმებას საქართველოს სამოციქულო ავტოკეფალურ მართლმადიდებელ ეკლესიასთან?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პარლამენტი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს უზენაესი სასამართლოს თავმჯდომარე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს პრეზიდენტი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პრემიერმინისტრი."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 32,
+        "Text": "32. შეიძლება თუ არა საქართველოს სახელმწიფო საზღვრის შეცვლა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "არავითარ შემთხვევაში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "შეიძლება მხოლოდ მეზობელ სახელმწიფოსთან დადებული ორმხრივი შეთანხმებით;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "შეიძლება მხოლოდ იმ შემთხვევაში, თუ საქართველო სხვა სახელმწიფოს დაიპრყობს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "შეიძლება მხოლოდ მეზობელი სახელმწიფოს მიერ საქართველოში ინვესტიციების განხორციელების შემთხვევაში."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 33,
+        "Text": "33. საქართველოს კონსტიტუციით სახელმწიფომ უნდა შექმნას თუ არა განსაკუთრებული პირობები შეზღუდული შესაძლებლობის მქონე პირთა უფლებებისა და ინტერესების რეალიზებისათვის?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "დიახ, მხოლოდ იმ შემთხვევაში, თუ შეზღუდული შესაძლებლობის მქონე პირები არასრულწლოვნები არიან;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "არა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "დიახ, მხოლოდ იმ შემთხვევაში, თუ სახელმწიფოს ამის ფინანსური შესაძლებლობა აქვს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "დიახ."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 34,
+        "Text": "34. როდის უნდა განემარტოს დაკავებულ პირს მისი უფლებები და დაკავების საფუძველი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "დაკავებისთანავე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "სასამართლოში წარდგენისთანავე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "დაკავების ადგილას გადაყვანისთანავე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "48 საათის გასვლის შემდეგ."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 35,
+        "Text": "35. შეიძლება თუ არა, ადამიანი ორჯერ დაისაჯოს ერთი და იმავე დანაშაულისთვის?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, თუ ის ორი ქვეყნის მოქალაქეა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "არა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, თუ დანაშაულისთვის გათვალისწინებული სასჯელი მსუბუქია;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, მხოლოდ საქართველოს პრეზიდენტის გადაწყვეტილებით."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 36,
+        "Text": "36. ვის წინაშე არის მთავრობა ანგარიშვალდებული?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პრეზიდენტის წინაშე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პრემიერმინისტრის წინაშე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს პარლამენტის წინაშე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს მოქალაქეების წინაშე."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 37,
+        "Text": "37. როგორ მონაწილეობს სამართალწარმოებაში პირი, რომელმაც სახელმწიფო ენა არ იცის?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ასეთი პირები სამართალწარმოებაში მონაწილეობენ მათი ახლობლების და მეგობრების დახმარებით."
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "პირი თავად იქნება ვალდებული, დაიქირაოს თარჯიმანი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ასეთი პირები ვერ მიიღებენ მონაწილეობას სამართალწარმოებაში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "მას მიეჩინება თარჯიმანი;"
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 38,
+        "Text": "38. როგორ ცხადდება სასამართლოს გადაწყვეტილება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "მიღებიდან 1 წელიწადში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "მხოლოდ მხარეებისთვის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქვეყნოდ;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "მხოლოდ წერილობით."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 39,
+        "Text": "39. ვინ ირჩევს საქართველოს გენერალურ პროკურორს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს იუსტიციის მინისტრი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს პარლამენტი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პრეზიდენტი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს საკონსტიტუციო სასამართლო."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 40,
+        "Text": "40. როდის შეუძლია დაკავებულ პირს მოითხოვოს ადვოკატის დახმარება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "დაკავებისთანავე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "სასამართლოში წარდგენისთანავე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "არასდროს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "გამოძიების დაწყებისთანავე."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 41,
+        "Text": "41. საქართველოს კონსტიტუციით, შესაძლებელია თუ არა ადამიანის პირადი და ოჯახური ცხოვრების უფლების შეზღუდვა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, არცერთ გარემოებაში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "დიახ, კერძო კომპანიების გადაწყვეტილების საფუძველზე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "დიახ, მხოლოდ კანონის შესაბამისად, დემოკრატიულ საზოგადოებაში აუცილებელი სახელმწიფო ან საზოგადოებრივი უსაფრთხოების უზრუნველყოფის ან სხვათა უფლებების დაცვის მიზნით."
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "დიახ, მხოლოდ კანონის შესაბამისად, დემოკრატიულ საზოგადოებაში აუცილებელი რელიგიის თავისუფლების უზრუნველსაყოფად;"
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 42,
+        "Text": "42. ვის აქვს ადამიანის დაკავების უფლება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ნებისმიერ ადამიანს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "კანონით უფლებამოსილ პირს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მღვდელს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "არავის."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 43,
+        "Text": "43. ვის შეუძლია ქვეყნის მთელ ტერიტორიაზე თავისუფალი მიმოსვლა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "ყველას, ვინც კანონიერად იმყოფება საქართველოში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "მხოლოდ მაღალი თანამდებობის პირებს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მხოლოდ საქართველოს მოქალაქეებს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "მხოლოდ პოლიციელებს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 44,
+        "Text": "44. რა შემთხვევაში შეიძლება რწმენის, აღმსარებლობისა და სინდისის თავისუფლების შეზღუდვა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "არავითარ შემთხვევაში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "მხოლოდ კანონის შესაბამისად, დემოკრატიულ საზოგადოებაში აუცილებელი სიტყვის თავისუფლების უზრუნველსაყოფად;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "მხოლოდ კანონის შესაბამისად, დემოკრატიულ საზოგადოებაში აუცილებელი საზოგადოებრივი უსაფრთხოების უზრუნველყოფის, ჯანმრთელობის ან სხვათა უფლებების დაცვის მიზნით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "მხოლოდ კანონის შესაბამისად, დემოკრატიულ საზოგადოებაში აუცილებელი კამათის თავიდან ასაცილებლად."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 45,
+        "Text": "45. შესაძლებელია თუ არა მოქალაქეობის ჩამორთმევა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, როცა ადამიანი დანაშაულს ჩაიდენს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "არავითარ შემთხვევაში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, როცა ადამიანი კაცობრიობის წინააღმდეგ დანაშაულს ჩაიდენს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, როცა ადამიანი სხვა ქვეყნის მოქალაქეობას მიიღებს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 46,
+        "Text": "46. რა ასაკიდან შეიძლება აირჩეს საქართველოს პარლამენტის წევრი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "25 წლიდან;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "21 წლიდან;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "18 წლიდან;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "30 წლიდან."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 47,
+        "Text": "47. შესაძლებელია თუ არა საქართველოს პრეზიდენტის იმპიჩმენტის პროცედურის განხორციელება საგანგებო ან საომარი მდგომარეობის დროს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "შესაძლებელია, თუ პრეზიდენტმა დანაშაული ჩაიდინა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "შესაძლებელია, თუ ამას ხალხი ითხოვს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "დაუშვებელია;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "შესაძლებელია, თუ პრეზიდენტი თავად არ გადადგა."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 48,
+        "Text": "48. რა იურიდიული ძალა აქვს საქართველოში საერთაშორისო ხელშეკრულებას?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საერთაშორისო ხელშეკრულებას უპირატესი იურიდიული ძალა აქვს საქართველოს კონსტიტუციის მიმართ;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საერთაშორისო ხელშეკრულებას უპირატესი იურიდიული ძალა აქვს ყველა შიდასახელმწიფოებრივი ნორმატიული აქტის მიმართ;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მას საერთოდ არ აქვს იურიდიული ძალა საქართველოში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "მას აქვს უპირატესი იურიდიული ძალა შიდასახელმწიფოებრივი ნორმატიული აქტის მიმართ, თუ იგი არ ეწინააღმდეგება საქართველოს კონსტიტუციას ან კონსტიტუციურ შეთანხმებას."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 49,
+        "Text": "49. რა ტიპის განათლება არის საქართველოში სავალდებულო?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "უმაღლესი განათლება სავალდებულოა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "დაწყებითი და საბაზო განათლება სავალდებულოა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "არანაირი განათლება არ არის სავალდებულო;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "სკოლამდელი განათლება არის სავალდებულო."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 50,
+        "Text": "50. რას ნიშნავს უდანაშაულობის პრეზუმფცია?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ადამიანი უდანაშაულოდ ითვლება, ვიდრე სასამართლო გადაწყვეტილება არ გამოცხადდება;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ადამიანი უდანაშაულოდ ითვლება, ვიდრე მისი დამნაშავეობა არ დამტკიცდება მედიაში გავრცელებული ინფორმაციით;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "ადამიანი უდანაშაულოდ ითვლება, ვიდრე მისი დამნაშავეობა არ დამტკიცდება კანონით დადგენილი წესით, კანონიერ ძალაში შესული სასამართლოს გამამტყუნებელი განაჩენით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ადამიანი უდანაშაულოდ ითვლება, ვიდრე გამოძიება დაიწყება."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 51,
+        "Text": "51. შესაძლებელია თუ არა საქართველოს მოქალაქის სხვა სახელმწიფოსათვის გადაცემა, თუ მან იმ სახელმწიფოში ჩაიდინა დანაშაული?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "დაუშვებელია, გარდა საერთაშორისო ხელშეკრულებით გათვალისწინებული შემთხვევებისა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს სახელმწიფომ საქართველოს მოქალაქე ყველა შემთხვევაში უნდა გადასცეს სხვა სახელმწიფოს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "შესაძლებელია გადაცემა მხოლოდ პრეზიდენტის გადაწყვეტილებით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "შესაძლებელია გადაცემა მხოლოდ პარლამენტის გადაწყვეტილებით."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 52,
+        "Text": "52. რამდენი წლით აირჩევა საქართველოს სახალხო დამცველი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "3 წლით;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "6 წლით;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "5 წლით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "4 წლით."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 53,
+        "Text": "53. რა შემთხვევაში შეიძლება პარლამენტის წევრის დაკავება ან დაპატიმრება, მისი საცხოვრებელი ან სამუშაო ადგილის, მანქანის ან პირადი გაჩხრეკა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს საკონსტიტუციო სასამართლოს თავმჯდომარის გადაწყვეტილებით;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "პრეზიდენტის თანხმობით;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "პარლამენტის თანხმობით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს უზენაესი სასამართლოს გადაწყვეტილებით."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 54,
+        "Text": "54. რამდენ ამომრჩეველს აქვს საკანონმდებლო ინიციატივის უფლება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "არანაკლებ 500 000 ამომრჩეველს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ამომრჩეველს საერთოდ არ აქვს საკანონმდებლო ინიციატივის უფლება."
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "არანაკლებ 30 000 ამომრჩეველს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "არანაკლებ 25 000 ამომრჩეველს;"
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 55,
+        "Text": "55. ვის აქვს უფლება, მოსამართლეს მოსთხოვოს ანგარიში კონკრეტულ საქმეზე?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "სასამართლოს თავმჯდომარეს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "არავის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პრეზიდენტს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პრემიერმინისტრს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 56,
+        "Text": "56. საქართველოს კონსტიტუციით, რა უნდა გააკეთოს სახელმწიფომ უცხოეთში მცხოვრები თანამემამულეებისთვის?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "უნდა იზრუნოს სამშობლოსთან მათი კავშირის შენარჩუნებასა და განვითარებაზე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "არაფერი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "უნდა იზრუნოს მათ დასაქმებაზე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "უნდა გამართოს მათთვის მიღება და კონცერტი წელიწადში ერთხელ."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 57,
+        "Text": "57. საქართველოს კონსტიტუციით, რა სახის საქმეებს აწესრიგებენ ადგილობრივი თვითმმართველობის წარმომადგენლობითი და აღმასრულებელი ორგანოების მეშვეობით?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "არანაირ საქმეს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ცენტრალური ხელისუფლების კომპეტენციას მიკუთვნებულ საქმეებს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "ადგილობრივი მნიშვნელობის საქმეებს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს კონსტიტუცია ამ საკითხს არ განსაზღვრავს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 58,
+        "Text": "58. რა ენაზე ხორციელდება სამართალწარმოება საქართველოში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ინგლისურ ენაზე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "სახელმწიფო ენაზე.;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ქართულ, რუსულ და სომხურ ენებზე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ქართულ და ინგლისურ ენებზე."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 59,
+        "Text": "59. საქართველოს კონსტიტუციით, ვის არ აქვს წინასწარი ნებართვის გარეშე საჯაროდ და უიარაღოდ შეკრების უფლება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "პირებს, რომლებიც იმყოფებიან თავდაცვის ძალების ან სახელმწიფო ან საზოგადოებრივი უსაფრთხოების დაცვაზე პასუხისმგებელი ორგანოების შემადგენლობაში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "მეძუძურ დედებს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "არასრულწლოვან და შეზღუდული შესაძლებლობის მქონე პირებს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საჯარო მოხელეებს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 60,
+        "Text": "60. სასჯელის აღსრულების დაწესებულებაში მყოფ რომელ საქართველოს მოქალაქეებს არ აქვთ არჩევნებსა და რეფერენდუმში ხმის მიცემის უფლება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ნაკლებად მძიმე დანაშაულისთვის მსჯავრდებულებს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "მძიმე დანაშაულისთვის მსჯავრდებულებს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "განსაკუთრებით მძიმე დანაშაულისთვის მსჯავრდებულებს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ქურდობის დანაშაულისთვის მსჯავრდებულებს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 61,
+        "Text": "61. საქართველოს კონსტიტუციით, ვინ არის საქართველოს სახელმწიფოს მეთაური?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს კათოლიკოს-პატრიარქი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს პრეზიდენტი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პარლამენტის თავმჯდომარე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს უზენაესი სასამართლოს თავმჯდომარე."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 62,
+        "Text": "62. როდის არის საქართველოს კონსტიტუცია მიღებული?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "1995 წლის 24 აგვისტოს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "1921 წლის 25 აგვისტოს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "1991 წლის 9 აპრილს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "1918 წლის 26 მაისს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 63,
+        "Text": "63. ვის აქვს უფლება, დაიკავოს საჯარო თანამდებობა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "წარმოშობით ქართველ საქართველოს მოქალაქეებს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "მხოლოდ პოლიტიკური პარტიების წევრებს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს ყოველ მოქალაქეს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "მხოლოდ კაცებს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 64,
+        "Text": "64. როგორ აფინანსებს სახელმწიფო ზოგად განათლებას?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ნაწილობრივ;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "მხოლოდ სოციალურად დაუცველი მოქალაქეების განათლებას აფინანსებს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საერთოდ არ აფინანსებს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "სრულად."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 65,
+        "Text": "65. შეიძლება თუ არა, საქართველოს მოქალაქეს უარი ეთქვას ქვეყნის ტერიტორიაზე შემოსვლაზე?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, თუ ვიზა არ აქვს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "არა, საქართველოს მოქალაქეს შეუძლია თავისუფლად შემოვიდეს საქართველოში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, თუ მისი დეპორტაცია მოხდა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, თუ მოქალაქემ სასაზღვრო პოლიციას ვერ დაუმტკიცა საქართველოში დაბრუნების მიზეზი."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 66,
+        "Text": "66. ვის წინაშე არის ანგარიშვალდებული ეროვნული ბანკი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "მთავრობის წინაშე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ქართველი ხალხის წინაშე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "პარლამენტის წინაშე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "პრეზიდენტის წინაშე."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 67,
+        "Text": "67. ჩამოთვლილთაგან რა ეკრძალება მოსამართლეს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "პოლიტიკური პარტიის წევრობა და პოლიტიკურ საქმიანობაში მონაწილეობა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ოჯახის შექმნა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "არჩევნებში ხმის მიცემა ;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "აკადემიური საქმიანობა."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 68,
+        "Text": "68. რა ვადით განწესდება მოსამართლე თანამდებობაზე?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "20 წლით;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "10 წლით;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "100 წლით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "უვადოდ."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 69,
+        "Text": "69. საქართველოს კონსტიტუციით, რა არის საქართველოს სახელმწიფო ენა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ინგლისური და ქართული;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "ქართული, ხოლო აფხაზეთის ავტონომიურ რესპუბლიკაში − აგრეთვე აფხაზური;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ქართული, აფხაზური, ოსური და რუსული;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "რუსული, ინგლისური, სომხური და აზერბაიჯანული."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 70,
+        "Text": "70. ვის შეუძლია სასამართლოს გადაწყვეტილების გაუქმება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "მხოლოდ პრეზიდენტს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "მხოლოდ სახალხო დამცველს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "მხოლოდ სასამართლოს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "გაერთიანებული ერების ორგანიზაციას."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 71,
+        "Text": "71. ვინ უცხადებს ნდობას საქართველოს მთავრობას?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "პარლამენტი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ხალხი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "პრეზიდენტი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "პრემიერმინისტრი."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 72,
+        "Text": "72. საქართველოს კონსტიტუციით, უწყობს თუ არა მოქალაქეს ხელს სახელმწიფო დასაქმებაში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, ეს მხოლოდ მოქალაქის ვალდებულებაა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "დიახ, სახელმწიფო ხელს უწყობს მოქალაქეს დასაქმებაში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, დასაქმება კერძო სექტორის ვალდებულებაა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "დიახ, სახელმწიფო ხელს უწყობს არასრულწლოვან მოქალაქეებს დასაქმებაში."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 73,
+        "Text": "73. სახალხო დამცველის დაკავება ან დაპატიმრება, მისი საცხოვრებელი ან სამუშაო ადგილის, მანქანის ან პირადი გაჩხრეკა შეიძლება:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "მის მიერ დანაშაულის ჩადენის შესახებ საფუძვლიანი ეჭვის არსებობის შემთხვევაში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "პრეზიდენტის თანხმობით;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "არავითარ შემთხვევაში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "მხოლოდ პარლამენტის თანხმობით. გამონაკლისია დანაშაულზე წასწრების შემთხვევა, რაც დაუყოვნებლივ უნდა ეცნობოს პარლამენტს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 74,
+        "Text": "74. შეიძლება თუ არა, საქართველომ თავისი მოქალაქე გააძევოს საქართველოდან?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, თუ ის ჩაიდენს დანაშაულს კაცობრიობის წინააღმდეგ;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, თუ ამას გაერო მოითხოვს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "არა, საქართველოდან საქართველოს მოქალაქის გაძევება დაუშვებელია;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, თუ მას სხვა ქვეყნის მოქალაქეობაც გააჩნია."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 75,
+        "Text": "75. საქართველოს კონსტიტუციით, ვინ მეთაურობს საქართველოს მთავრობას?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "პრეზიდენტი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "პრემიერმინისტრი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მთავრობის ადმინისტრაციის ხელმძღვანელი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "მეფე ან დედოფალი."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 76,
+        "Text": "76. რა შემთხვევაში შეიძლება ადამიანისთვის რელიგიის თავისუფლების შეზღუდვა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "გაეროს უშიშროების საბჭოს გადაწყვეტილებით;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "თუკი შეზღუდვა კანონის შესაბამისად, დემოკრატიულ საზოგადოებაში აუცილებელი მორალური ღირებულებების დასაცავად ხორციელდება;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "დასაშვებია საკონსტიტუციო სასამართლოს გადაწყვეტილებით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "თუკი შეზღუდვა კანონის შესაბამისად, დემოკრატიულ საზოგადოებაში აუცილებელი საზოგადოებრივი უსაფრთხოების უზრუნველყოფის, ჯანმრთელობის ან სხვათა უფლებების დაცვის მიზნით ხორციელდება."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 77,
+        "Text": "77. რა ტიპის წინასწარი ნებართვა სჭირდებათ ადამიანებს საჯაროდ და უიარაღოდ შეკრებისთვის?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "საერთოდ არ სჭირდებათ;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "სჭირდებათ ადგილობრივი თვითმმართველობის ორგანოს ნებართვა, რომელიც გაცემულია 1 თვით ადრე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "სჭირდებათ პოლიციის ნებართვა, რომელიც გაცემულია 1 კვირით ადრე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "წინასწარი ნებართვა სჭირდებათ მხოლოდ ქალებს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 78,
+        "Text": "78. რა ასაკიდან აქვთ საქართველოს მოქალაქეებს უფლება, კენჭი იყარონ მეფის არჩევნებზე?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "40 წლიდან;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "მეფის არჩევნები მხოლოდ საუკუნეში ერთხელ ტარდება და ასაკს მნიშვნელობა არ აქვს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "მეფის არჩევნები საერთოდ არ ტარდება;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "60 წლიდან."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 79,
+        "Text": "79. საქართველოს კონსტიტუციით, ვის ეწოდება საქართველოს თავდაცვის ძალების უმაღლესი მთავარსარდალი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს თავდაცვის მინისტრს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს პრეზიდენტს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პრემიერმინისტრს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს შეიარაღებული ძალების გენერალური შტაბის უფროსს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 80,
+        "Text": "80. რამდენ წელიწადში ერთხელ ამტიკიცებს საქართველოს პარლამენტი სახელმწიფო ბიუჯეტს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "2 წელიწადში ერთხელ;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "პარლამენტი საერთოდ არ ამტკიცებს ბიუჯეტს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "წელიწადში ორჯერ;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "ყოველწლიურად."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 81,
+        "Text": "81. ვინ აწერს ხელს კანონებს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "კანონპროექტის ავტორი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პარლამენტის თავმჯდომარე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს პრეზიდენტი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს კათოლიკოს-პატრიარქი."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 82,
+        "Text": "82. საქართველოს კონსტიტუციით, ვინ არის სახელმწიფო ხელისუფლების წყარო?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ეკლესია;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "ხალხი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პრეზიდენტი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პარლამენტის წევრები."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 83,
+        "Text": "83. საქართველოს კონსტიტუციით, შესაძლებელია თუ არა ადამიანისთვის არაჰუმანური, სასტიკი ან პატივისა და ღირსების შემლახველი სასჯელის შეფარდება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, ომის პერიოდში."
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, ტერორიზმის საფრთხის შემთხვევაში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, ტერორიზმის საფრთხის შემთხვევაში და სხვათა სიცოცხლის დაცვის მიზნით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "არა, არცერთ გარემოებაში;"
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 84,
+        "Text": "84. შეიძლება თუ არა, საქართველოს პრეზიდენტის თანამდებობა ეკავოს საქართველოს მოქალაქეს, რომელიც იმავდროულად სხვა სახელმწიფოს მოქალაქეა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "არა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, თუ მეორე მოქალაქეობის ქვეყანა საფრანგეთია;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, თუ მეორე მოქალაქეობის ქვეყანა რუსეთია."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 85,
+        "Text": "85. პარლამენტის რომელი სხდომის ოქმები არის საჯარო?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "პარლამენტის ყველა სხდომის ოქმი საჯაროა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "არცერთი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "პარლამენტის ღია სხდომების ოქმები საჯაროა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "პარლამენტის სხდომების ის ოქმები არის საჯარო, რომელსაც პარლამენტის თავმჯდომარე მიიჩნევს საჯაროდ."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 86,
+        "Text": "86. საქართველოს კონსტიტუციის მიხედვით, რომელი უწყება აკეთებს ფულის ემისიას?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს სავაჭრო პალატა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს ეროვნული ბანკი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ფულის მუზეუმი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "სახელმწიფო აუდიტის სამსახური."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 87,
+        "Text": "87. ჩამოთვლილთაგან რომელია საქართველოს უზენაესი კანონი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "კონსტიტუციური შეთანხმება საქართველოს სახელმწიფოსა და საქართველოს სამოციქულო ავტოკეფალურ მართლმადიდებელ ეკლესიას შორის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს კანონი უზენაესი სასამართლოს შესახებ;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს სისხლის სამართლის კოდექსი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს კონსტიტუცია."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 88,
+        "Text": "88. საქართველოს კონსტიტუციით, რამდენ თვეს არ უნდა აღემატებოდეს ბრალდებულის წინასწარი პატიმრობის ვადა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "9 თვეს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "19 თვეს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "6 თვეს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "2 თვეს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 89,
+        "Text": "89. როდის შეიძლება დაწესდეს შეკრების შესახებ წინასწარი გაფრთხილება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "თუ შეკრება სკოლაში იმართება;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "არ შეიძლება ასეთი გაფრთხილების დაწესება არავითარ შემთხვევაში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "თუ შეკრება ხალხის ან ტრანსპორტის სამოძრაო ადგილას იმართება;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "თუ შეკრება რესტორანში იმართება."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 90,
+        "Text": "90. რომელი უწყება ზედამხედველობს საბიუჯეტო სახსრების ხარჯვას?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს ეროვნული ბანკი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "სახელმწიფო აუდიტის სამსახური;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "კომერციული ბანკები;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს შინაგან საქმეთა სამინისტრო."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 91,
+        "Text": "91. შეუძლიათ თუ არა საქართველოს მოქალაქეებს, ისარგებლონ დედაენით?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, საქართველოს მოქალაქეებმა მხოლოდ სახელმწიფო ენით უნდა ისარგებლონ;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს მოქალაქეებს აქვთ უფლება, ისარგებლონ დედაენით, ოღონდ მხოლოდ პირად ცხოვრებაში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს მოქალაქეებს აქვთ უფლება, ისარგებლონ დედაენით პირად ცხოვრებაში ან საჯაროდ;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს მოქალაქეებს აქვთ უფლება, ისარგებლონ დედაენით, ოღონდ მხოლოდ საჯაროდ."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 92,
+        "Text": "92. საქართველოს კონსტიტუციით, შესაძლებელია თუ არა კერძო საკუთრების საყოველთაო უფლების გაუქმება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "დაუშვებელია;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "შესაძლებელია, თუ ქვეყნის ტერიტორიული მთლიანობა დაირღვა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "შესაძლებელია, თუ კონსტიტუცია ასე გაითვალისწინებს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "შესაძლებელია იმ შეთხვევაში, თუ ხელისუფლება შეიცვალა."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 93,
+        "Text": "93. ვინ შეიძლება მიუსაჯოს ადამიანს თავისუფლების აღკვეთა ან თავისუფლების სხვაგვარი შეზღუდვა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "სასამართლომ, მაგრამ გამონაკლის შემთხვევაში, სპეციალურმა კომისიამ;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "მხოლოდ სასამართლომ;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "პროკურატურამ;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "პოლიციამ."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 94,
+        "Text": "94. საქართველოს კონსტიტუციის მიხედვით, შეუძლია თუ არა საქართველოს მოქალაქეს საცხოვრებელი ადგილის თავისუფლად არჩევა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, მან უნდა იცხოვროს იქ, სადაც დაიბადა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, მან უნდა იცხოვროს იქ, სადაც მისი მშობლები ცხოვრობენ;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "დიახ, შეუძლია;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "მხოლოდ იმ შემთხვევაში, თუ საცხოვრებელი ადგილი საკუთრებაში ექნება."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 95,
+        "Text": "95. რა უფლებამოსილებები აქვს საქართველოს პრეზიდენტს საგარეო ურთიერთობებში? და ამისთვის მას არავის თანხმობა არ სჭირდება;",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "არანაირი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ხვდება და აცილებს უცხო ქვეყნების ოფიციალურ დელეგაციებს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ახორციელებს წარმომადგენლობით უფლებამოსილებებს საგარეო ურთიერთობებში"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "მთავრობის თანხმობით ახორციელებს წარმომადგენლობით უფლებამოსილებებს საგარეო ურთიერთობებში."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 96,
+        "Text": "96. შეიძლება თუ არა პარლამენტის წევრად აირჩეს პირი, რომელსაც სასამართლოს განაჩენით შეფარდებული აქვს თავისუფლების აღკვეთა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "კი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "არა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, თუ თავისუფლების აღკვეთის ვადა არის 5 წლამდე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, თუ თავისუფლების აღკვეთის ვადა არის 2 წლამდე."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 97,
+        "Text": "97. საქართველოს კონსტიტუციით, როდის უნდა განემარტოს დაკავებულ პირს მისი უფლებები და დაკავების საფუძველი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "დაკავებისთანავე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "არავითარი განმარტება აუცილებელი არ არის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "დაკავების ადგილას გადაყვანისთანავე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "დაკავებიდან დაახლოებით 3 საათში."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 98,
+        "Text": "98. ვინ ნიშნავს პარლამენტისა და ადგილობრივი თვითმმართველობის ორგანოების არჩევნებს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ცენტრალური საარჩევნო კომისიის თავმჯდომარე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პარლამენტის თავმჯდომარე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "პარტიები, ერთობლივი გადაწყვეტილების საფუძველზე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს პრეზიდენტი."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 99,
+        "Text": "99. რომელი სასამართლო არის უფლებამოსილი, განიხილოს ნორმატიული აქტის კონსტიტუციურობის საკითხი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "არცერთი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს უზენაესი სასამართლო;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს საკონსტიტუციო სასამართლო;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "თბილისის სააპელაციო სასამართლო."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 100,
+        "Text": "100. საქართველოს კონსტიტუციით, რომელ თვეში ინიშნება საქართველოს პრეზიდენტის არჩევნები?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "თვე განსაზღვრული არ არის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "ოქტომბერში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "სექტემბერში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "მაისში."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 101,
+        "Text": "101. ვის ეკისრება ბრალდების მტკიცების მოვალეობა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "არავის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ბრალდების მტკიცების მოვალეობა ეკისრება ბრალდებულს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ყველას, ვისაც სურს ამტკიცოს თავისი უდანაშაულობა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "ბრალდების მტკიცების მოვალეობა ეკისრება ბრალმდებელს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 102,
+        "Text": "102. არის თუ არა აუცილებელი სასამართლოში საკუთარი უფლებების დასაცავად ადვოკატის აყვანა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, თუ თავად ადვოკატი ხართ;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, აუცილებელია;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "არა, ყველას აქვს უფლება, სასამართლოში დაიცვას თავისი უფლებები პირადად ან ადვოკატის მეშვეობით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, თუ საქმე განსაკუთრებულად რთული არ არის."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 103,
+        "Text": "103. როდის შეუძლია დაკავებულ პირს, მოითხოვოს ადვოკატის დახმარება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "დაკავებისთანავე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "სასამართლოში წარდგენისთანავე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მისი უფლებების შესაძლო დარღვევის აღმოჩენისთანავე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "დამოკიდებულია გამომძიებლის სურვილზე."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 104,
+        "Text": "104. საქართველოს კონსტიტუციით, აქვთ თუ არა ადამიანებს უფლება, დროულად მიიღონ სრული ინფორმაცია გარემოს მდგომარეობის შესახებ?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, არცერთ გარემოებაში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "კი, ადამიანებს აქვთ უფლება, დროულად მიიღონ სრული ინფორმაცია გარემოს მდგომარეობის შესახებ;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, თუ გარემოს მდგომარეობა კარგია;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, თუ ისინი დაასაბუთებენ ამ ინფორმაციის მიღების საჭიროებას."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 105,
+        "Text": "105. რა ეტაპამდე ითვლება ადამიანი უდანაშაულოდ, საქართველოს კონსტიტუციის მიხედვით?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "სასამართლოს გამამტყუნებელი განაჩენის კანონიერ ძალაში შესვლიდან 10 წლის ვადის გასვლამდე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "დანაშაულის შესახებ ინფორმაციის მედიაში გამჟღავნებამდე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "პირველი ინსტანციის სასამართლოს მიერ გადაწყვეტილების გამოცხადებამდე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "კანონიერ ძალაში შესული სასამართლოს გამამტყუნებელი განაჩენით მისი დამნაშავეობის დამტკიცებამდე."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 106,
+        "Text": "106. რა შემთხვევაში აქვს კანონის დარღვევით მოპოვებულ მტკიცებულებას იურიდიული ძალა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "როცა კანონის დარღვევით მტკიცებულებას მოიპოვებს პოლიცია;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "როცა კანონის დარღვევა ლეგიტიმურია;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "არცერთ შემთხვევაში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "როცა მტკიცებულება კანონის დარღვევით კი არის მოპოვებული, მაგრამ ძალადობა არ არის გამოყენებული."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 107,
+        "Text": "107. საქართველოს კონსტიტუციით, ვის აქვს გენერალური პროკურორის იმპიჩმენტის წესით თანამდებობიდან გადაყენების საკითხის აღძვრის უფლება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "პარლამენტს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პრეზიდენტს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პრემიერმინისტრს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს იუსტიციის მინისტრს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 108,
+        "Text": "108. რომელი უწყება განიხილავს და წარუდგენს დასკვნას პარლამენტს პრეზიდენტის იმპიჩმენტის საკითხთან დაკავშირებით?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს უზენაესი სასამართლო;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს საკონსტიტუციო სასამართლო;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს სახალხო დამცველი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს მთავრობა."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 109,
+        "Text": "109. ვის აქვს საკანონმდებლო ინიციატივის უფლება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "მხოლოდ პარლამენტის წევრებს და ფრაქციებს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "მთავრობას, პარლამენტის წევრს, საპარლამენტო ფრაქციას, პარლამენტის კომიტეტს და აფხაზეთისა და აჭარის ავტონომიური რესპუბლიკების უმაღლეს წარმომადგენლობით ორგანოებს."
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მთავრობას, პარლამენტის წევრს, საპარლამენტო ფრაქციას, პარლამენტის კომიტეტს, აფხაზეთისა და აჭარის ავტონომიური რესპუბლიკების უმაღლეს წარმომადგენლობით ორგანოებს, არანაკლებ 100000 ამომრჩეველს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "მთავრობას, პარლამენტის წევრს, საპარლამენტო ფრაქციას, პარლამენტის კომიტეტს, აფხაზეთისა და აჭარის ავტონომიური რესპუბლიკების უმაღლეს წარმომადგენლობით ორგანოებს, არანაკლებ 25000 ამომრჩეველს;"
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 110,
+        "Text": "110. აქვს თუ არა უფლება პარლამენტის წევრს, ეწეოდეს სამეწარმეო საქმიანობას?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "რა თქმა უნდა, აქვს უფლება;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, თუ სამეწარმეო საქმიანობა ნავთობის მოპოვებას არ ეხება;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "არა, ეს პირდაპირ არის აკრძალული საქართველოს კონსტიტუციით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, თუ სამეწარმეო საქმიანობას წარმატებით უთავსებს პარლამენტის წევრის ფუნქციებს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 111,
+        "Text": "111. რა შემთხვევაში არის დაშვებული სიკვდილით დასჯა საქართველოში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "ადამიანის სიცოცხლე დაცულია. სიკვდილით დასჯა აკრძალულია;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ადამიანის სიცოცხლე დაცულია, თუმცა სიკვდილით დასჯა დასაშვებია განსაკუთრებით მძიმე დანაშაულის ჩადენისთვის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ადამიანის სიცოცხლის უფლების შეზღუდვა დასაშვებია უზენაესი სასამართლოს გადაწყვეტილებით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ადამიანის სიცოცხლის უფლების შეზღუდვა დასაშვებია პრეზიდენტის დეკრეტის საფუძველზე საომარ პერიოდში."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 112,
+        "Text": "112. დასაშვებია თუ არა საქართველოს მოქალაქისთვის საკუთრების ჩამორთმევა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "დაუშვებელია საქართველოს მოქალაქისთვის საკუთრების ჩამორთმევა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს მოქალაქისთვის საკუთრების ჩამორთმევა დასაშვებია საქართველოს პარლამენტის გადაწყვეტილებით;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს მოქალაქისთვის საკუთრების ჩამორთმევა დასაშვებია საკონსტიტუციო სასამართლოს გადაწყვეტილებით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "აუცილებელი საზოგადოებრივი საჭიროებისათვის საკუთრების ჩამორთმევა დასაშვებია."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 113,
+        "Text": "113. რა ასაკიდან აქვთ საქართველოს მოქალაქეებს არჩევნებსა და რეფერენდუმში ხმის მიცემის უფლება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "16 წლიდან;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "21 წლიდან;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "18 წლიდან;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "25 წლიდან."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 114,
+        "Text": "114. რამდენი წევრისგან შედგება საქართველოს პარლამენტი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "150;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "345;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "100;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "50."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 115,
+        "Text": "115. ვინ არის საქართველოს სახელმწიფოს მეთაური?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პრემიერმინისტრი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პარლამენტის თავმჯდომარე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს საკონსტიტუციო სასამართლოს თავმჯდომარე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს პრეზიდენტი."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 116,
+        "Text": "116. რომელია საქართველოს სახელმწიფო ენა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "ქართული, ხოლო აფხაზეთის ავტონომიურ რესპუბლიკაში − აგრეთვე აფხაზური;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ქართული;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ქართული, ხოლო სამხრეთ ოსეთის ავტონომიურ ოლქში - აგრეთვე ოსური;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ქართული და რუსული."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 117,
+        "Text": "117. საქართველოს დედაქალაქია:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "მცხეთა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "თბილისი და მცხეთა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "თბილისი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ქუთაისი. "
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 118,
+        "Text": "118. საქართველოს კონსტიტუცია მიღებულია:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "1921 წლის 25 აგვისტოს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "1995 წლის 24 აგვისტოს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "1991 წლის 9 აპრილს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "1918 წლის 26 მაისს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 119,
+        "Text": "119. საქართველოს პრეზიდენტად შეიძლება არჩეულ იქნეს საქართველოს მოქალაქე, რომელსაც შესრულებული აქვს:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "40 წელი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "30 წელი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "18 წელი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "21 წელი."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 120,
+        "Text": "120. მოსამართლე შეიძლება გახდეს საქართველოს მოქალაქე, რომელსაც შესრულებული აქვს:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "21 წელი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "18 წელი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "28 წელი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "30 წელი."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 121,
+        "Text": "121. რომელი სახელმწიფო ორგანო ზედამხედველობს ადამიანის უფლებების დაცვას საქართველოს ტერიტორიაზე?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "აუდიტის სამსახური;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "არასამთავრობო ორგანიზაცია “საქართველოს ახალგაზრდა იურისტთა ასოციაცია“;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს სახალხო დამცველი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საგარეო საქმეთა სამინისტრო."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 122,
+        "Text": "122. რა შემთხვევაში შეიძლება პრეზიდენტის იმპიჩმენტის წესით თანამდებობიდან გადაყენება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "მხოლოდ კონსტიტუციის დარღვევის საფუძვლით;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "კონსტიტუციის დარღვევის ან ქმედებაში დანაშაულის ნიშნების არსებობის საფუძვლით;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მხოლოდ მის ქმედებაში დანაშაულის ნიშნების არსებობის საფუძვლით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "მნიშვნელოვან კანონპროექტზე ვეტოს დადების შემთხვევაში."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 123,
+        "Text": "123. ვისი სახელით გამოაქვს სასამართლოს გადაწყვეტილება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს სახელით;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "იმ ქალაქის სახელით, სადაც სასამართლო მდებარეობს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მოსამართლის სახელით, რომელსაც გადაწყვეტილება გამოაქვს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "სასამართლოს სახელით."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 124,
+        "Text": "124. ვინ ნიშნავს მინისტრებს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ხალხი ნიშნავს მინისტრებს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "პრეზიდენტი ნიშნავს მინისტრებს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "პარლამენტი ნიშნავს მინისტრებს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "პრემიერმინისტრი ნიშნავს მინისტრებს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 125,
+        "Text": "125. საჯარო მოხელე შეიძლება გახდეს საქართველოს მოქალაქე, რომელსაც შესრულებული აქვს:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "30 წელი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "18 წელი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "21 წელი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "28 წელი."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 126,
+        "Text": "126. საქართველოს სახელმწიფო რელიგია არის:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "არცერთი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ისლამი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ბუდიზმი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "მართლმადიდებლური ქრისტიანობა."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 127,
+        "Text": "127. ვის აქვს უფლება, მიმართოს სასამართლოს თავის უფლებათა და თავისუფლებათა დასაცავად?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს ყველა მოქალაქეს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "ყველა ადამიანს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მხოლოდ უცხო ქვეყნის მოქალაქეებს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "მხოლოდ მამაკაცებს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 128,
+        "Text": "128. რა პრინციპის საფუძველზე ხორციელდება სახელმწიფო ხელისუფლება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "პრინციპის გარეშე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ერთპიროვნული მმართველობის პრინციპის საფუძველზე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "ხელისუფლების დანაწილების პრინციპის საფუძველზე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ჰუმანიზმის პრინციპის საფუძველზე."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 129,
+        "Text": "129. საქართველოს კონსტიტუციით, შესაძლებელია თუ არა ადამიანისთვის საკუთრების ჩამორთმევა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, თუ ადამიანი 80 წელს გადაცილებულია;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, სასჯელის ფორმით, თუ ადამიანმა დანაშაული ჩაიდინა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, თუმცა მხოლოდ სასოფლო-სამეურნეო დანიშნულების მიწის;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "კი, აუცილებელი საზოგადოებრივი საჭიროებისათვის."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 130,
+        "Text": "130. აქვთ თუ არა საქართველოში მცხოვრებ სხვა სახელმწიფოს მოქალაქეებს და მოქალაქეობის არმქონე პირებს პოლიტიკური საქმიანობა შეზღუდული?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "კი, სახელმწიფო უფლებამოსილია, კანონით დააწესოს სხვა სახელმწიფოს მოქალაქეთა და მოქალაქეობის არმქონე პირთა პოლიტიკური საქმიანობის შეზღუდვა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, მათ აბსოლუტური თავისუფლება აქვთ;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, თუმცა სახელმწიფო მხედველობაში იღებს მათ განათლების დონეს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, მის შესაზღუდად საჭიროა გაეროს უშიშროების საბჭოს გადაწყვეტილება."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 131,
+        "Text": "131. ვრცელდება თუ არა ადამიანის უფლებები იურიდიულ პირებზე?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, ადამიანის უფლებები ვრცელდება არასამეწარმეო იურიდიულ პირებზე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, ადამიანის უფლებები იურიდიულ პირებზე საერთოდ არ ვრცელდება;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, ადამიანის უფლებები ვრცელდება სამეწარმეო იურიდიულ პირებზე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "ადამიანის უფლებები, მათი შინაარსის გათვალისწინებით, ვრცელდება აგრეთვე იურიდიულ პირებზე."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 132,
+        "Text": "132. საქართველოს კონსტიტუციით, უნდა მიიღოს თუ არა სახელმწიფომ განსაკუთრებული ზომები მამაკაცებისა და ქალების არსებითი თანასწორობის უზრუნველსაყოფად და უთანასწორობის აღმოსაფხვრელად?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, ეს სახელმწიფოს მოვალეობა არ არის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "დიახ, კონსტიტუცია ამას ითვალისწინებს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, ეს შეუძლებელია;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, ამისათვის ადამიანებმა თავად უნდა იზრუნონ."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 133,
+        "Text": "133. როდის შეიძლება სამხედრო სასამართლოს შემოღება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "საომარი მდგომარეობის დროს და მხოლოდ საერთო სასამართლოების სისტემაში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "არასდროს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საგანგებო მდგომარეობის დროს და მხოლოდ საერთო სასამართლოების სისტემაში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ყოველთვის."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 134,
+        "Text": "134. საქართველოს კონსტიტუციის მიხედვით, რა არის საქართველოს სახელმწიფოს სახელწოდება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს დემოკრატიული რესპუბლიკა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს საბჭოთა რესპუბლიკა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველო;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს კონსტიტუციური მონარქია."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 135,
+        "Text": "135. ვინ ზედამხედველობს საბიუჯეტო სახსრებისა და სხვა საჯარო რესურსების გამოყენებასა და ხარჯვას?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს სახალხო დამცველი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "თბილისის ზედამხედველობის სამსახური;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "სახელმწიფო აუდიტის სამსახური;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს ფინანსთა სამინისტრო."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 136,
+        "Text": "136. საქართველოს კონსტიტუციით, არის თუ არა დაშვებული ცენზურა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "არა, ცენზურა დაუშვებელია;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, სასამართლოს გადაწყვეტილებით;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, საქართველოს თავდაცვის სამინისტროს შუამდგომლობით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, ცენზურის სამინისტროს გადაწყვეტილებით."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 137,
+        "Text": "137. რამდენი წლით აირჩევა საქართველოს პრეზიდენტი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "10 წლით;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "5 წლით;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "4 წლით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "6 წლით."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 138,
+        "Text": "138. ვინ წყვეტს მოქალაქეობის საკითხებს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს იუსტიციის მინისტრი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს შინაგან საქმეთა მინისტრი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს პრეზიდენტი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პრემიერმინისტრი."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 139,
+        "Text": "139. შესაძლებელია თუ არა საქართველოს მოქალაქის გაძევება საქართველოდან?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "არა, საქართველოს მოქალაქის გაძევება დაუშვებელია;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, ყოველგვარი საფუძვლის გარეშე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, თუ იგი ქვეყნის ეროვნულ ღირსებას შელახავს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, თუ გადასახადებს თავს აარიდებს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 140,
+        "Text": "140. რამდენი მოსამართლისგან შედგება საქართველოს საკონსტიტუციო სასამართლო?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "3 მოსამართლისგან;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "15 მოსამართლისგან;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "17 მოსამართლისგან;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "9 მოსამართლისგან."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 141,
+        "Text": "141. საქართველოს კონსტიტუციით, რა ტიპის განათლება არის საქართველოში სავალდებულო?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "დაწყებითი და საბაზო განათლება სავალდებულოა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "უმაღლესი განათლება სავალდებულოა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "არანაირი განათლება არ არის სავალდებულო;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "მეორე უმაღლესი განათლება არის სავალდებულო."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 142,
+        "Text": "142. რით დასტურდება, რომ საქართველო არის დამოუკიდებელი, ერთიანი და განუყოფელი სახელმწიფო?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს კონსტიტუციით;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "1991 წლის 31 მარტს ქვეყნის მთელ ტერიტორიაზე, მათ შორის აფხაზეთის ასსრ-ში და ყოფილ სამხრეთ ოსეთის ავტონომიურ ოლქში ჩატარებული რეფერენდუმით და 1991 წლის 9 აპრილის საქართველოს სახელმწიფოებრივი დამოუკიდებლობის აღდგენის აქტით"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ბიბლიით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "2016 წლის საპარლამენტო არჩევნების შედეგებით."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 143,
+        "Text": "143. რომელი წლის მდგომარეობით არის საქართველოს სახელმწიფოს ტერიტორია განსაზღვრული?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "1995 წლის 24 აგვისტოს მდგომარეობით;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "1918 წლის 26 მაისის მდგომარეობით;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "1991 წლის 9 აპრილის მდგომარეობით."
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "1991 წლის 21 დეკემბრის მდგომარეობით."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 144,
+        "Text": "144. რის ისტორიულ-სამართლებრივ მემკვიდრეობაზე დაყრდნობით გამოცხადდა საქართველოს კონსტიტუცია?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ქართველი ერის მრავალსაუკუნოვანი სახელმწიფოებრიობის ტრადიციების;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "1977 წლის საბჭოთა კონსტიტუციის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს 1921 წლის კონსტიტუციის;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ლეონტი მროველის “ქართლის ცხოვრების.”"
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 145,
+        "Text": "145. ვის წინაშე ცხადდება საქართველოს კონსტიტუცია?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ქართველი ხალხის წინაშე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "ღვთისა და ქვეყნის წინაშე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ღვთის წინაშე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს სახელმწიფოს წინაშე."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 146,
+        "Text": "146. შესაძლებელია თუ არა საყოველთაო არჩევნებში არჩეული ორგანოს მიმდინარე უფლებამოსილების ვადის კონსტიტუციით ან კანონით შემცირება ან გაზრდა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "შესაძლებელია, განსაკუთრებულ შემთხვევაში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "დაუშვებელია;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "შესაძლებელია თუ პარლამენტის წევრთა აბსოლუტურული უმრავლესობა დაუჭერს მხარს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "შესაძლებელია ომის და საგანგებო მდგომარეობის დროს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 147,
+        "Text": "147. საქართველოს კონსტიტუციის თანახმად, ვინ შეიწყალებს მსჯავრდებულებს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პრემიერმინისტრი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პარლამენტის თავმჯდომარე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "შეწყალების კომისიის წევრები;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს პრეზიდენტი."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 148,
+        "Text": "148. საჭიროებს თუ არა თანახელმოწერას საქართველოს პრეზიდენტის სამართლებრივი აქტი პრემიერ-მინისტრის დანიშვნის შესახებ?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "დიახ, საჭიროებს პრემიერ-მინისტრის თანახელწერას;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "არ საჭიროებს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "დიახ, საჭიროებს ყოფილი პრემიერ-მინისტრის თანახელწერას ;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "დიახ, საჭიროებს პარლამენტის თავმჯდომარის თანახელწერას."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 149,
+        "Text": "149. რამდენი მოსამართლე შედის უზენაესი სასამართლოს შემადგენლობაში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "9;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "30;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "11;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "28."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 150,
+        "Text": "150. ვინ და რა წესით ირჩევს უზენაესი სასამართლოს თავმჯდომარეს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პრეზიდენტის წარდგინებით სიითი შემადგენლობის უმრავლესობით ირჩევს პარლამენტი არანაკლებ 10 წლის ვადით;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "უზენაესი სასამართლოს წევრთაგან იუსტიციის უმაღლესი საბჭოს წარდგინებით 10 წლის ვადით სრული შემადგენლობის უმრავლესობით ირჩევს პარლამენტი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს უზენაესი სასამართლოს მოქმედი თავმჯდომარის წარდგინებით სიითი შემადგენლობის უმრავლესობით ირჩევს პარლამენტი არანაკლებ 10 წლის ვადით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პრეზიდენტის წარდგინებით სრული შემადგენლობის უმრავლესობით ირჩევს პარლამენტი არანაკლებ 10 წლის ვადით."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 151,
+        "Text": "151. შეიძლება თუ არა საქართველოს პრეზიდენტად არჩეულ იქნას მოქალაქე, რომელსაც საქართველოში 5 წელი უცხოვრია?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "არა, 15 წელი მაინც უნდა ეცხოვრა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, 5 წელი მაინც თუ უცხოვრია;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, 10 წელი მაინც უნდა ეცხოვრა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, 13 წელი მაინც უნდა ეცხოვრა."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 152,
+        "Text": "152. რა წესით აირჩევა საქართველოს პრეზიდენტი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "დებატების შედეგად დახურული კენჭისყრით ირჩევს საარჩევნო კოლეგია;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "დებატების გარეშე დახურული კენჭისყრით ირჩევს საარჩევნო კოლეგია;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "დებატების გარეშე ღია კენჭისყრით ირჩევს საარჩევნო კოლეგია;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "პირდაპირ ირჩევს საქართველოს მოსახლეობა."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 153,
+        "Text": "153. რა მიზნით ნიშნავს მთავრობა სახელმწიფო რწმუნებულებს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ადმინისტრაციულ-ტერიტორიული ერთეულების ტერიტორიაზე კონტროლის დასამყარებლად"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "ადმინისტრაციულ-ტერიტორიული ერთეულების ტერიტორიაზე მთავრობის წარმომადგენლობის უზრუნველსაყოფად;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ადმინისტრაციულ-ტერიტორიული ერთეულების ტერიტორიაზე თვითმმართველობის გასაძლიერებლად;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ინფორმაციის უკეთესი გაცვლისთვის ცენტრსა და ადმინისტრაციულტერიტორიულ ერთეულებს შორის."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 154,
+        "Text": "154. შეიძლება თუ არა საკონსტიტუციო სასამართლოს მოსამართლე იყოს პირი, რომელსაც ადრე ეკავა ეს თანამდებობა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, თუ თანამდებობის დაკავებიდან 30 წელი არის გასული;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, მხოლოდ, მეორე ვადით;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "კი, რამდენჯერაც სურვილი ექნება თავად მოსამართლეს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "არა."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 155,
+        "Text": "155. რა წესით აირჩევა საკონსტიტუციო სასამართლოს თავმჯდომარე?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საკონსტიტუციო სასამართლო თავისი შემადგენლობიდან 10 წლის ვადით ირჩევს საკონსტიტუციო სასამართლოს თავმჯდომარეს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "საკონსტიტუციო სასამართლო თავისი შემადგენლობიდან 5 წლის ვადით ირჩევს საკონსტიტუციო სასამართლოს თავმჯდომარეს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოსპარლამენტი 5 წლის ვადით ირჩევს საკონსტიტუციო სასამართლოს თავმჯდომარეს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საკონსტიტუციო სასამართლო თავისი შემადგენლობიდან 30 წლის ვადით ირჩევს საკონსტიტუციო სასამართლოს თავმჯდომარეს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 156,
+        "Text": "156. ვინ შედის იუსტიციის უმაღლესი საბჭოს შემადგენლობაში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "20 წევრი და მთავარი პროკურორი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "14 წევრი და საკონსტიტუციო სასამართლოს თავმჯდომარე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "14 წევრი და უზენაესი სასამართლოს თავმჯდომარე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "15 პარლამენტის წევრი."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 157,
+        "Text": "157. ვინ ირჩევს იუსტიციის უმაღლესი საბჭოს მდივანს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "საერთო სასამართლოების მოსამართლეთა თვითმმართველობის ორგანო;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს მთავრობა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პარლამენტი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პრეზიდენტი."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 158,
+        "Text": "158. რა წესით აირჩევა გენერალური პროკურორი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საპროკურორო საბჭოს წარდგინებით ნიშნავს იუსტიციის მინისტრი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საპროკურორო საბჭოს წარდგინებით სიითი შემადგენლობის უმრავლესობით ირჩევს პარლამენტი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საპროკურორო საბჭოს წარდგინებით ნიშნავს საქართველოს პრემიერ-მინისტრი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "საპროკურორო საბჭოს წარდგინებით სრული შემადგენლობის უმრავლესობით ირჩევს პარლამენტი."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 159,
+        "Text": "159. რამდენი წევრისგან შედგენა საპროკურორო საბჭო?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "10;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "15;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "21;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "5."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 160,
+        "Text": "160. სად არის სავალდებულო შესასრულებლად ადგილობრივი თვითმმართველობის ორგანოს მიერ მისი უფლებამოსილების ფარგლებში მიღებული გადაწყვეტილება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს მთელ ტერიტორიაზე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს მთელ ტერიტორიაზე, გარდა დედაქალაქისა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "შესაბამისი თვითმმართველი ერთეულის ტერიტორიაზე დარეგისტრირებული მოქალაქეების ფაქტობრივ საცხოვრებელ ადგილებზე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "შესაბამისი თვითმმართველი ერთეულის ტერიტორიაზე."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 161,
+        "Text": "161. ვის აქვს კონსტიტუციის გადასინჯვის პროექტის წარდგენის უფლება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "პარლამენტის სრული შემადგენლობის ამომრჩეველს; ნახევარზე მეტს ან არანაკლებ 10 000"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "პარლამენტის სრული შემადგენლობის ამომრჩეველს; ნახევარზე მეტს ან არანაკლებ 200 000"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პრემიერ-მინისტრს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "პარლამენტის წევრთა აბსოლუტურ ამომრჩეველს. უმრავლესობას ან არანაკლებ 20 000"
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 162,
+        "Text": "162. რა შემთხვევაში ითვლება კანონი მიღებულად?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "თუ მას მხარს დაუჭერს დამსწრეთა უმრავლესობა, მაგრამ არანაკლებ პარლამენტის სრული შემადგენლობის ერთი მესამედისა, თუ კონსტიტუციით არ არის განსაზღვრული კანონის მიღების სხვა წესი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "თუ მას მხარს დაუჭერს დამსწრეთა უმრავლესობა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "თუ მას მხარს დაუჭერს დამსწრეთა უმრავლესობა, მაგრამ არანაკლებ პარლამენტის სრული შემადგენლობის ორი მესამედი, თუ კონსტუტუციით არ არის განსაზღვრული კანონის მიღების სხვა წესი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "კანონის მისაღებად კენჭრისყრა საჭირო არ არის."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 163,
+        "Text": "163. რა შემთხვევაში ჩაითვლება მიღებულად ორგანული კანონი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "თუ მას მხარს დაუჭერს პარლამენტის სრული შემადგენლობის ერთი მესამედი, თუ კონსტიტუციით არ არის განსაზღვრული ორგანული კანონის მიღების სხვა წესი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "თუ მას მხარს დაუჭერს პარლამენტის სრული შემადგენლობის სამი მეოთხედი, თუ კონსტიტუციით არ არის განსაზღვრული ორგანული კანონის მიღების სხვა წესი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "თუ მას მხარს დაუჭერს პარლამენტის სრული შემადგენლობის უმრავლესობა, თუ კონსტიტუციით არ არის განსაზღვრული ორგანული კანონის მიღების სხვა წესი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ორგანული კანონი მიღებულად ითვლება კენჭისყრის გარეშე."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 164,
+        "Text": "164. როდის შედის კანონი ძალაში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ოფიციალურ ორგანოში მისი გამოქვეყნებიდან მეორე დღესვე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "ოფიციალურ ორგანოში მისი გამოქვეყნებიდან მე-15 დღეს, თუ იმავე კანონით სხვა ვადა არ არის დადგენილი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ის ძალაში შედის მიღებისთანავე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ოფიციალურ ორგანოში მისი გამოქვეყნებიდან ერთ თვეში, თუ იმავე კანონით სხვა ვადა არ არის დადგენილი."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 165,
+        "Text": "165. შესაძლებელია თუ არა პარლამენტის წევრის გაწვევა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "დიახ, შესაძლებელია;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "დიახ, შესაძლებელია, თუ ის გარდაიცვლება;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "დიახ, შესაძელებელია, თუ ის დანაშაულს ჩაიდენს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "არა, პარლამენტის წევრის გაწვევა დაუშვებელია."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 166,
+        "Text": "166. შეიძლება თუ არა პარლამენტის წევრი ეწეოდეს სამეწარმეო საქმიანობას?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "დიახ, შეიძლება, თუ სამეწარმეო საქმიანობა დაწყებულია პარლამენტში მის არჩევამდე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "არ აქვს უფლება."
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "დიახ, აქვს უფლება, მაგრამ გააჩნია სამეწარმეო საქმიანობის სფეროს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "დიახ, შესაძლებელია, თუ ია პარლამენტში მის საქმიანობას ხელს არ უშლის;"
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 167,
+        "Text": "167. რამდენჯერ იკრიბება საქართველოს პარლამენტი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "წელიწადში ორჯერ, საშემოდგომო და საგაზაფხულო სესიებზე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "წელიწადში ერთხელ;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "წელიწადში ოთხჯერ: საშემოდგომო, ზამთრის, საგაზაფხულო და ზაფხულის სესიებზე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "ორ წელიწადში ერთხელ."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 168,
+        "Text": "168. რა ვადაში აწერს ხელს და აქვეყნებს საქართველოს პრეზიდენტი კანონებს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "1 კვირის ვადაში;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "10 დღის ვადაში;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "3 კვირის ვადაში;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "2 კვირის ვადაში."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 169,
+        "Text": "169. აქვს თუ არა მთავრობის წევრს უფლება, ეკავოს პარტიული თანამდებობა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, დაუშვებელია;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, თუ ეს ოპოზიციური პარტიაა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "დიახ, აქვს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "არა, თუ ეს მმართველი პარტიაა."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 170,
+        "Text": "170. ვინ შეიძლება გახდეს ვიცე-პრემიერი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "პარლამენტის წევრი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "ერთ-ერთი მინისტრი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "მოსამართლე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "კონკურსის წესით შერჩეული მოქალაქე."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 171,
+        "Text": "171. რომელი წლის აქტით არის საქართველოს დამოუკიდებლობა განსაზღვრული?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "1991 წლის 9 აპრილის საქართველოს სახელმწიფოებრივი დამოუკიდებლობის აღდგენის აქტით;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "1995 წლის 24 აგვისტოს საქართველოს სახელმწიფოებრივი დამოუკიდებლობის აღდგენის აქტით;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "1991 წლის 31 მარტის საქართველოს სახელმწიფოებრივი დამოუკიდებლობის აღდგენის აქტით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "1918 წლის 26 მაისის საქართველოს სახელმწიფოებრივი დამოუკიდებლობის აღდგენის აქტით."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 172,
+        "Text": "172. როდის იმართება ახალარჩეული პარლამენტის პირველი სხდომა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "პარლამენტის არჩევნების შედეგების ოფიციალურად გამოცხადებამდე 2 დღით ადრე;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "პარლამენტის არჩევნების შედეგების ოფიციალურად გამოცხადებისთანავე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "პარლამენტის არჩევნების შედეგების ოფიციალურად გამოცხადებიდან არაუგვიანეს მე-10 დღისა."
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "პარლამენტის არჩევნების შედეგების ოფიციალურად გამოცხადებიდან არაუგვიანეს მე-20 დღისა;"
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 173,
+        "Text": "173. ვინ ირჩევს საქართველოს პარლამენტის თავმჯდომარეს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ხალხი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "პარლამენტი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "პრემიერმინისტრი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "პრეზიდნეტი."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 174,
+        "Text": "174. როდის ტარდება პარლამენტის მორიგი არჩევნები?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "პარლამენტის უფლებამოსილების ვადის ამოწურვის კალენდარული წლის ოქტომბრის ბოლო შაბათს"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "პარლამენტის უფლებამოსილების ვადის ამოწურვის კალენდარული წლის ნოემბრის პირველ შაბათს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "პარლამენტის უფლებამოსილების ვადის ამოწურვის კალენდარული წლის დეკემბრის ბოლო შაბათს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "პარლამენტის უფლებამოსილების ვადის ამოწურვის კალენდარული წლის ოქტომბრის პირველ შაბათს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 175,
+        "Text": "175. რა ხდება იმ შემთხვევაში, როცა კონსტიტუციური კანონის პროექტის განხილვის დროს საგანგებო ან საომარი მდგომარეობა გამოცხადდება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "კონსტიტუციური კანონის პროექტის განხილვა შეჩერდება 2 დღით;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "კონსტიტუციური კანონის პროექტის განხილვა შეწყდება და აღარ გაგრძელდება;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "კონსტიტუციური კანონის პროექტის განხილვა შეჩერდება ამ მდგომარეობის გაუქმებამდე;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "კონსტიტუციური კანონის პროექტი უკან დაუბრუნდება ინიციატორებს;"
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 176,
+        "Text": "176. ვინ აწერს ხელს და აქვეყნებს კონსტიტუციურ კანონს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ხალხი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "პრეზიდენტი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "პრემიერმინისტრი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "პრეზიდენტის საპარლამენტი მდივანი."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 177,
+        "Text": "177. რომელი სათათბირო ორგანო იქმნება საომარი მდგომარეობის დროს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "ეროვნული თავდაცვის საბჭო;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "ეროვნული საომარი კომისია;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ეროვნული უშიშრობის საბჭო;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საზოგადოებრივი პალატა."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 178,
+        "Text": "178. ვინ თავმჯდომარეობს ეროვნული თავდაცვის საბჭოს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "შინაგან საქმეთა მინისტრი და თავდაცვის მინისტრი ერთად;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "თავდაცვის მინისტრი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "პრემიერმინისტრი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "პრეზიდენტი."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 179,
+        "Text": "179. ვინ იღებს გადაწყვეტილებას საომარი მდგომარეობის დროს თავდაცვის ძალების გამოყენების შესახებ?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "პრეზიდენტი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "პრემიერმინისტრი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "თავდაცვის მინისტრი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "პარლამენტი."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 180,
+        "Text": "180. ვინ იღებს გადაწყვეტილებას სახელმწიფოს თავდაცვის მიზნით განსაკუთრებულ და კანონით გათვალისწინებულ შემთხვევებში ქვეყანაში სხვა სახელმწიფოს სამხედრო ძალების შემოყვანის, გამოყენებისა და გადაადგილების შესახებ?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "შინაგან საქმეთა მინისტრი პრეზიდენტის წარდგინებით;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "თავდაცვის მინისტრი მთავრობის წარდგინებით;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "პრემიერმინისტრი პრეზიდენტის წარდგინებით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "პრეზიდენტი მთავრობის წარდგინებით."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 181,
+        "Text": "181. ვინ გამოსცემს ორგანული კანონის ძალის მქონე დეკრეტებს საომარი ან საგანგებო მდგომარეობის დროს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "პრეზიდენტი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "პარლამენტი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს პრეზიდენტი პრემიერ-მინისტრის წარდგინებით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "პრემიერმინისტრი თავდაცვის მინისტრის წარდგინებით."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 182,
+        "Text": "182. როდიდან შედის ძალაში დეკრეტი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "გამოცემის მომენტიდან;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "გამოქვეყნებიდან მე-15 დღეს;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "გამოქვეყენების მომენტიდან;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "გამოცემიდან მე-15 დღეს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 183,
+        "Text": "183. რა ვადით აირჩევა სახელმწიფო აუდიტის სამსახურის ხელმძღვანელი, გენერალური აუდიტორი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "10 წლის ვადით;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "7 წლის ვადით;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "5 წლის ვადით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "სამუდამოდ."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 184,
+        "Text": "184. ვის ემორჩილება საქართველოს პროკურატურა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პრეზიდენტს;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "მხოლოდ კონსტიტუციასა და კანონს"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს იუსტიციის მინისტრს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს შინაგან საქმეთა მინისტრს."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 185,
+        "Text": "185. რამდენი წლის ვადით ინიშნება საერთო სასამართლოს მოსამართლე?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "10 წლის ვადით;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "20 წლის ვადით;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "უვადოდ;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "5 წლის ვადით."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 186,
+        "Text": "186. რამდენი ვადით შეიძლება უზენაესი სასამართლოს თავმჯდომარის არჩევა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ორჯერ;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "სამჯერ;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ხუთჯერ;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "ერთი და იმავე პირის ხელმეორედ არჩევა დაუშვებელია."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 187,
+        "Text": "187. რა წესით ახორციელებს საქართველოს საკონსტიტუციო სასამართლო სასამართლო ხელისუფლებას?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საკანონმდებლო ზედამხედველობის გზით;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "მართლმსაჯულების გზით;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "საკონსტიტუციო სამართალწარმოების წესით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საერთოდ არ ახორციელებს სასამართლო ხელისუფლებას."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 188,
+        "Text": "188. რომელი ორგანოს ფუნქციაა მოსამართლეთა დანიშვნა და გათავისუფლება?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "იუსტიციის საბჭო;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "მთავრობის ადმინისტრაცია;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "პრეზიდენტის ადმინისტრაცია;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "იუსტიციის სამინისტრო."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 189,
+        "Text": "189. ვინ უნდა წარუდგინოს პარლამენტს სახელმწიფო ბიუჯეტის პროექტი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "სახალხო დამცველმა."
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "სახელმწიფო ხაზინამ;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "პრეზიდენტმა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "მთავრობამ;"
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 190,
+        "Text": "190. რა ვადაში უნდა იქნეს ბიუჯეტის პროექტი წარდგენილი პარლამენტში?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საბიუჯეტო წლის დასრულებამდე არაუგვიანეს 1 თვისა;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "საბიუჯეტო წლის დასრულებამდე არაუგვიანეს 3 თვისა;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საბიუჯეტო წლის დასრულებამდე არაუგვიანეს 3 კვირისა;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "საბიუჯეტო წლის დასრულებამდე არაუგვიანეს 2 თვისა."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 191,
+        "Text": "191. ვისი თანხმობა სჭრდება პარლამენტს სახელმწიფო ბიუჯეტის კანონის პროექტში ცვლილების შესატანად?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "პრეზიდენტის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "სახელმწიფო აუდიტის სამსახურის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "მთავრობის;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "სახალხო დამცველის."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 192,
+        "Text": "192. ვინ აწერს ხელს და აქვეყნებს სახელმწიფო ბიუჯეტის კანონს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "პრეზიდენტი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "პარლამენტის თავმჯდომარე;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "პრემიერმინისტრი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "იუსტიციის მინისტრი."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 193,
+        "Text": "193. ჩამოთვლილთაგან რა გზით შეიძლება გადასახადებისა და მოსაკრებლების განაკვეთების ან განაკვეთების ფარგლების დადგენა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "ფინანსთა მინისტრის ბრძანებით;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "საკრებულოს გადაწყვეტილებით;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ეროვნული ბანკის გადაწყვეტილებით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": true,
+                "Text": "მხოლოდ კანონით."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 194,
+        "Text": "194. რა წესით აირჩევა ეროვნული ბანკის საბჭო?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პრეზიდენტის წარდგინებით ირჩევს პრემიერმინისტრი;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "საქართველოს პრეზიდენტის წარდგინებით ირჩევს პარლამენტი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "საქართველოს პრემიერმინისტრის წარდგინებით ირჩევს პარლამენტი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "სახალხო დამცველის წრდგინებით ირჩევს პარლამენტი."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 195,
+        "Text": "195. რამდენი წლით აირჩევიან ეროვნული ბანკის საბჭოს წევრები?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "10 წლის ვადით;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "20 წლის ვადით;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "7 წლის ვადით;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "უვადოდ."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 196,
+        "Text": "196. ეროვნული ბანკის რომელი ხარჯები ექვემდებარება ზედამხედველობასა და კონტროლს?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "მხოლოდ ადმინისტრაციული და კაპიტალური ხარჯები;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "არცერთი ხარჯი;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "აბსოლუტურად ყველა ხარჯი;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "მხოლოდ კაპიტალური ხარჯები."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 197,
+        "Text": "197. რატომ შეიძლება იქნას შემოღებული სახელმწიფო მინისტრის თანამდებობა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "დაუშვებელია ამ თანამდებობის შემოღება;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": true,
+                "Text": "განსაკუთრებული მნიშვნელობის სახელმწიფოებრივი ამოცანების შესასრულებლად;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "თუ რომელიმე მინისტრი ვერ ართმევს თავს დაკისრებულ ვალდებულებებს;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "პრემიერმინისტრის მოვალეობის შესასრულებლად მისი არყოფნის შემთხვევაში."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 198,
+        "Text": "198. საქართველოს კონსტიტუციის მიხედვით ვისი უფლებამოსილებაა სახელმწიფო ჯილდოების და პრემიების, უმაღლესი სამხედრო, სპეციალური და საპატიო წოდებების, უმაღლესი დიპლომატიურ რანგების გაცემა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": false,
+                "Text": "პრემიერმინისტრის;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "პარლამენტის;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": true,
+                "Text": "პრეზიდენტის;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "მთავრობის."
+            }
+        ]
+    },
+    {
+        "Topic": "lawBasics",
+        "Number": 199,
+        "Text": "199. წელიწადში რამდენჯერ წარუდგენს პრეზიდენტი პარლამენტს მოხსენებას ქვეყნის მდგომარეობის უმნიშვნელოვანეს საკითხებზე?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "ThisCorrectAnswer": true,
+                "Text": "ერთხელ;"
+            },
+            {
+                "Code": "ბ",
+                "ThisCorrectAnswer": false,
+                "Text": "სამჯერ;"
+            },
+            {
+                "Code": "გ",
+                "ThisCorrectAnswer": false,
+                "Text": "ორჯერ;"
+            },
+            {
+                "Code": "დ",
+                "ThisCorrectAnswer": false,
+                "Text": "არცერთხელ."
+            }
+        ]
+    }
+]

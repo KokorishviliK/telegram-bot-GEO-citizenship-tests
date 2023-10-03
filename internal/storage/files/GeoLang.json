@@ -1,0 +1,5640 @@
+[
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 1,
+        "Text": "1. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მე ცუდად ვსაუბრობ ქართული;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მე ცუდად ვსაუბრობ ქართულით;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მე ცუდად ვსაუბრობ ქართულად;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "მე ცუდად ვსაუბრობ ქართულმა.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 2,
+        "Text": "2. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მე ვხატავ სურათს;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "მე ვხატავ სურათმ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მე ვხატავ სურათი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მე ვხატავ სურათის.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 3,
+        "Text": "3. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მე დამიძახა ამხანაგს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მე დამიძახა ამხანაგმა;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "მე დამიძახა ამხანაგით;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მე დამიძახა ამხანაგის.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 4,
+        "Text": "4. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "შენ ხარ ექიმმა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "შენ ხარ ექიმით;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "შენ ხარ ექიმი;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "შენ ხარ ექიმად.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 5,
+        "Text": "5. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "თქვენ უყურებთ ფეხბურთმა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "თქვენ უყურებთ ფეხბურთს;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "თქვენ უყურებთ ფეხბურთო;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "თქვენ უყურებთ ფეხბურთად.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 6,
+        "Text": "6. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "საფულე დევს ჩანთასავით;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "საფულე დევს ჩანთიდან;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "საფულე დევს ჩანთისგან;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "საფულე დევს ჩანთაში;",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 7,
+        "Text": "7. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ეზო ავი ძაღლია;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ეზოში ავი ძაღლია;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "ეზოდან ავი ძაღლია;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ეზოზე ავი ძაღლია.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 8,
+        "Text": "8. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "გიორგი სკოლა სწავლობს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "გიორგი სკოლით სწავლობს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "გიორგი სკოლაზე სწავლობს.",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "გიორგი სკოლაში სწავლობს;",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 9,
+        "Text": "9. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "კოკა-კოლა მაცივრიდან დევს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "კოკა-კოლა მაცივარი დევს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "კოკა-კოლა მაცივარში დევს;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "კოკა-კოლა მაცივრისგან დევს.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 10,
+        "Text": "10. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ბავშვი წყალში ჩავარდა;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "ბავშვი წყალზე ჩავარდა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ბავშვი წყლის ჩავარდა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ბავშვი წყალი ჩავარდა.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 11,
+        "Text": "11. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ის მიდის კონცერტთან;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ის მიდის კონცერტივით;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ის მიდის კონცერტში;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ის მიდის კონცერტზე.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 12,
+        "Text": "12. შემოხაზეთ სწორი პასუხი;",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ვაშლი დევს მაგიდა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ვაშლი დევს მაგიდით;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ვაშლი დევს მაგიდისგან;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ვაშლი დევს მაგიდაზე.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 13,
+        "Text": "13. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ბიჭი ფეხზე იცვამს წინდას;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "ბიჭი ფეხისკენ იცვამს წინდას;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ბიჭი ფეხში იცვამს წინდას;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ბიჭი ფეხი იცვამს წინდას.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 14,
+        "Text": "14. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "არმსტრონგმა მთვარეში დადგა ფეხი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "არმსტრონგმა მთვარეზე დადგა ფეხი;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "არმსტრონგმა მთვარისგან დადგა ფეხი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "არმსტრონგმა მთვარეს დადგა ფეხი.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 15,
+        "Text": "15. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ჩიტი ტოტი ზის;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ჩიტი ტოტიდან ზის;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ჩიტი ტოტზე ზის;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "ჩიტი ტოტში ზის.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 16,
+        "Text": "16. შემოხაზეთ არასწორი პასუხი: ყვავილები ყვავის:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "სახლის ქვეშ;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "სახლის უკან;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "სახლის ირგვლივ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "სახლის წინ.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 17,
+        "Text": "17. შემოხაზეთ სწორი პასუხი: ბოსტანი გაშენებულია…",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "შენობაზე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "შენობის გვერდზე;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "შენობაში;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "შენობის ეზოზე.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 18,
+        "Text": "18. შემოხაზეთ სწორი პასუხი: ანა დგას…",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "სკამიდან;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "სკამის ირგვლივ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "სკამზე;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "სკამის ქვემოთ.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 19,
+        "Text": "19. შემოხაზეთ სწორი პასუხი: ის ავიდა ...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "კიბის საფეხურზე;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "კიბის ირგვლივ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "კიბის საფეხურში;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "კიბის საფეხურისგან.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 20,
+        "Text": "20. შემოხაზეთ სწორი პასუხი: გავემართე ...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ცირკისგან;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ცირკისთვის;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ცირკისკენ;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "ცირკივით.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 21,
+        "Text": "21. შემოხაზეთ სწორი პასუხი: მე ვცხოვრობ…",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ჭავჭავაძის გამზირისგან;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ჭავჭავაძის გამზირში;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ჭავჭავაძის გამზირიდან;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ჭავჭავაძის გამზირზე.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 22,
+        "Text": "22. შემოხაზეთ სწორი პასუხი: აბაშიძის ქუჩიდან გადავედი .....",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "წერეთლის ქუჩაში;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "წერეთლის ქუჩაზე;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "წერეთლის ქუჩიდან;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "წერეთლის ქუჩისთვის.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 23,
+        "Text": "23. შემოხაზეთ სწორი პასუხი: ის დასახლდა ...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "თბილისიდან;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "თბილისზე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "თბილისში;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "თბილისისგან.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 24,
+        "Text": "24. შემოხაზეთ სწორი პასუხი: სასწრაფო დახმარება გამოიძახეს ...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "რუსთაველის გამზირზე;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "რუსთაველის გამზირში;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "რუსთაველის გამზირისგან;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "რუსთაველის გამზირისთვის.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 25,
+        "Text": "25. შემოხაზეთ სწორი პასუხი: მე დავიბადე ...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "თბილისისკენ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "თბილისიდან;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "თბილისში;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "თბილისზე.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 26,
+        "Text": "26. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მოგზაური გამოვიდა სასტუმროზე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მოგზაური გამოვიდა სასტუმროსგან;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მოგზაური გამოვიდა სასტუმროში.",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მოგზაური გამოვიდა სასტუმროდან;",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 27,
+        "Text": "27. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "დათო წამოვიდა მეგობარზე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "დათო წამოვიდა მეგობრისგან;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "დათო წამოვიდა მეგობარი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "დათო წამოვიდა მეგობარში.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 28,
+        "Text": "28. შემოხაზეთ არასწორი პასუხი: ის ბრუნდება ...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მეგობრისგან;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მეგობრისკენ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მეგობარი;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "მეგობრისთვის.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 29,
+        "Text": "29. შემოხაზეთ არასწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მსახიობი წამოვიდა თეატრისგან;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "მსახიობი წამოვიდა თეატრისკენ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მსახიობი წამოვიდა თეატრიდან;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მსახიობი წამოვიდა თეატრში.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 30,
+        "Text": "30. შემოხაზეთ სწორი პასუხი: შენ თეატრში…",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "იყავით?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მიდის?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "წავალ?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მიდიხარ?",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 31,
+        "Text": "31. შემოხაზეთ სწორი პასუხი: თქვენ სამსახურში ...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "იყავით?",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "მიდის?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მივიდა?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "იყო?",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 32,
+        "Text": "32. შემოხაზეთ სწორი პასუხი: ისინი ბაზარში ...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "იყო?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "იყვნენ?",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "წავა?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "წახვედით?",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 33,
+        "Text": "33. შემოხაზეთ სწორი პასუხი: ჩვენ თამაშს ...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მოიგებ?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მოიგებთ?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მოვიგებთ?",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "მოიგებენ?",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 34,
+        "Text": "34. შემოხაზეთ სწორი პასუხი: ვალაგებთ .....",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ისინი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ჩვენ;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "მე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "თქვენ.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 35,
+        "Text": "35. შემოხაზეთ სწორი პასუხი: მიემგზავრები .....",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ის;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "შენ;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "ჩვენ.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 36,
+        "Text": "36. შემოხაზეთ სწორი პასუხი: „ალბათ, სახლში იქნებიან“ ნიშნავს:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "არ ვიცი, სახლში იქნებიან თუ არა;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "ვიცი, რომ სახლში იქნებიან;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ვიცი, რომ სახლში არ იქნებიან;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ვარ დარწმუნებული, რომ სახლში იქნებიან.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 37,
+        "Text": "37. შემოხაზეთ სწორი პასუხი: „არ ვიცი, გაიგე თუ არა” - გულისხმობს:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ვიცი, რომ ვერ გაიგე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ალბათ გაიგე;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "ვიცი, რომ გაიგე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მჯერა, რომ გაიგე.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 38,
+        "Text": "38. შემოხაზეთ სწორი პასუხი: „ალბათ დავხატავ“ ნიშნავს:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "აუცილებლად დავხატავ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "არ დავხატავ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "უნდა დავხატო;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "შეიძლება დავხატო.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 39,
+        "Text": "39. შემოხაზეთ სწორი პასუხი: „შეიძლება ვიყიდო“ გულისხმობს:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ალბათ ვიყიდი;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "რა თქმა უნდა, ვიყიდი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "უნდა ვიყიდო;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "აუცილებლად ვიყიდი.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 40,
+        "Text": "40. შემოხაზეთ არასწორი პასუხი: ხვალ წვიმა წამოვა?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "კი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "რატომ;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "ჰო;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "დიახ.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 41,
+        "Text": "41. შემოხაზეთ სწორი პასუხი: „დიახ“ ნიშნავს:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "უარვყოფ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ვეთანხმები;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "ვეკითხები;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ვასწავლი.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 42,
+        "Text": "42. შემოხაზეთ სწორი პასუხი: შეკითხვაზე - „სასტუმროში გავჩერდეთ?“ - პასუხია:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "როგორ?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "საით?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ამისთვის?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "კი;",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 43,
+        "Text": "43. შემოხაზეთ არასწორი პასუხი: მისამართი იცით?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "კი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "დიახ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ჰო;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "უკვე.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 44,
+        "Text": "44. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "თქვენ ვართ ირაკლი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მე ვარ ირაკლი;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "ის არიან დათო;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "შენ არის დათო.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 45,
+        "Text": "45. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "შენ სანდრო მქვია?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "შენ სანდრო ჰქვია?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "შენ სანდრო გქვია?",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "შენ სანდრო გვქვია?",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 46,
+        "Text": "46. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "იმას არის ჯიმი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "იმას ჰქვია ჯიმი;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "ის ჰქვია ჯიმი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "იმან ჰქვია ჯიმი.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 47,
+        "Text": "47. შემოხაზეთ არასწორი პასუხი: ჩამონათვალში სხვა მნიშვნელობისაა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "გამარჯობა;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "კარგად იყავი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ხვალამდე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ნახვამდის.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 48,
+        "Text": "48. შემოხაზეთ არასწორი პასუხი: „ნახვამდის“ შეიძლება ნიშნავდეს:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "შეხვედრამდე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "კარგად იყავი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "დილა მშვიდობის;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "ხვალამდე.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 49,
+        "Text": "49. შემოხაზეთ არასწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "დილა მშვიდობის, ნახვამდის;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "წავედი სამსახურში, ნახვამდის;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ხვალ გნახავ, ნახვამდის;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ღამე მშვიდობის, ნახვამდის.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 50,
+        "Text": "50. შემოხაზეთ სწორი პასუხი: ეს ბილეთი არის:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "თეატრში;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "თვითმფრინავის;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "კინომ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "სპექტაკლისგან.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 51,
+        "Text": "51. შემოხაზეთ სწორი პასუხი: ამ გაზეთს ვაძლევთ ნინოს. ეს გაზეთი .....",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ნინოდანაა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ნინოსგანაა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ნინოსთვისაა;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "ნინოსკენაა.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 52,
+        "Text": "52. შემოხაზეთ სწორი პასუხი: ამ ტილოთი ვწმენდთ მაგიდას.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ეს მაგიდის ტილოა;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "ეს მაგიდა ტილოა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ეს მაგიდისგან ტილოა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ეს მაგიდაზე ტილოა.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 53,
+        "Text": "53. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "პატარა გოგონამ დარბის;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "პატარა გოგონა დარბის;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "პატარამ გოგონამ დარბის;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "პატარამ გოგონა დარბის.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 54,
+        "Text": "54. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ეს მაღალი მოსწავლეს ჩანთაა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ეს მაღალ მოსწავლეს ჩანთაა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ეს მაღალი მოსწავლე ჩანთაა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ეს მაღალი მოსწავლის ჩანთაა.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 55,
+        "Text": "55. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ლამაზი გოგომ კითხულობს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ლამაზი გოგო კითხულობს;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "ლამაზმა გოგო კითხულობს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ლამაზ გოგო კითხულობს.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 56,
+        "Text": "56. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "დიდი მდინარეს ჩამოდის;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "დიდმა მდინარე ჩამოდის;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "დიდი მდინარე ჩამოდის;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "დიდი მდინარემ ჩამოდის.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 57,
+        "Text": "57. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ის აქვს ნინო;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ის უნდა ნინო;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ის ხარ ნინო;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ის არის ნინო.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 58,
+        "Text": "58. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "იმან მიწაა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ის მიწაა;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "შენ მიწაა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "იმას მიწაა.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 59,
+        "Text": "59. შემოხაზეთ სწორი პასუხი: ვუთითებთ ტბაზე:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "აი, ტბა;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "ვაი, ტბა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ვუი, ტბა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "უჰ, ტბა.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 60,
+        "Text": "60. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ის ვინ ხარ?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მე ვინ არის?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "თქვენ ვინ არიან?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "შენ ვინ ხარ?",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 61,
+        "Text": "61. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ისინი ვინ ხარ?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ისინი ვინ არიან?",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "ისინი ვინ არის?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ისინი ვინ იყო?",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 62,
+        "Text": "62. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "თქვენ ვინ არიან?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "თქვენ ვინ ვარ?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "თქვენ ვინ ხართ?",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "თქვენ ვინ იყო?",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 63,
+        "Text": "63. შემოხაზეთ სწორი პასუხი: მაღალი - დაბალი; ფართო - ?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მაღალი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "გრძელი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მოკლე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ვიწრო.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 64,
+        "Text": "64. შემოხაზეთ სწორი პასუხი: მაღალი - დაბალი; გრძელი - ?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მოკლე;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "პატარა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ვიწრო;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მაღალი.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 65,
+        "Text": "65. შემოხაზეთ სწორი პასუხი: ბრაზილია დიდი სახელმწიფოა, ბელგია -",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ვიწრო;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "პატარა;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "მოკლე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "სუსტი.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 66,
+        "Text": "66. შემოხაზეთ სწორი პასუხი: ლომი ძლიერი ცხოველია, შველი -",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "სუსტი;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "მომცრო;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "პატარა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "გამხდარი.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 67,
+        "Text": "67. შემოხაზეთ სწორი პასუხი: ორი დღის შემდეგ ანუ:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ხვალ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "გუშინ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მაზეგ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ზეგ.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 68,
+        "Text": "68. შემოხაზეთ სწორი პასუხი: ორი დღის წინ ანუ:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "გუშინ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "გუშინწინ;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "მაზეგ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ხვალ.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 69,
+        "Text": "69. შემოხაზეთ სწორი პასუხი: ორი დღის წინ გაკეთებული სადილი არის:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ზეგინდელი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "გუშინდელი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "გუშინწინდელი;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "ხვალინდელი.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 70,
+        "Text": "70. შემოხაზეთ სწორი პასუხი: სოფელში მაქვს ........... და ბაღი.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "სახლი;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "სახლში;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "სახლის;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "სახლით.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 71,
+        "Text": "71. შემოხაზეთ სწორი პასუხი: სახლში გავაკეთე .... და მურაბა.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "წვენმა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "წვენს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "წვენის;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "წვენი.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 72,
+        "Text": "72. შემოხაზეთ სწორი პასუხი: მოვხარშე .... და ატმის კომპოტი.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ვაშლით;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ვაშლის;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "ვაშლი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ვაშლს.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 73,
+        "Text": "73. შემოხაზეთ სწორი პასუხი: 2019",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ოცდაცხრა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ორი ათას ცხრა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ორას ცხრა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ორი ათას ცხრამეტი.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 74,
+        "Text": "74. შემოხაზეთ სწორი პასუხი: მე დავიბადე .....",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ათას ცხრაას ოთხმოცდაოთხი წელი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ათას ცხრაას ოთხმოცდაოთხ წელზე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ათას ცხრაას ოთხმოცდაოთხ წელს;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "ათას ცხრაას ოთხმოცდაოთხი წელში.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 75,
+        "Text": "75. შემოხაზეთ სწორი პასუხი: ჩემი ძმა დაიბადა ათას ცხრაას ოთხმოცდაცხრამეტ წელს.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "1909;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "1999;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "1919;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "1099.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 76,
+        "Text": "76. შემოხაზეთ არასწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "საქართველო არის სომხეთის მეზობელი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "საქართველო არის თურქეთის მეზობელი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "საქართველო არის რუსეთის მეზობელი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "საქართველო არის ბელგიის მეზობელი.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 77,
+        "Text": "77. შემოხაზეთ სწორი პასუხი: მე ვცხოვრობ ...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "საქართველოში;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "საქართველოზე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "საქართველო;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "საქართველოს.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 78,
+        "Text": "78. შემოხაზეთ სწორი პასუხი: შენ ხარ შვედი. შენ ცხოვრობ ...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "შვედია;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "შვეციას;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "შვეიცარიაში;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "შვედეთში.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 79,
+        "Text": "79. შემოხაზეთ სწორი პასუხი: მე ვარ ....",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "საქართველო მოქალაქე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "საქართველოს მოქალაქე;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "ქართველის მოქალაქე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "საქართველოში მოქალაქე.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 80,
+        "Text": "80. შემოხაზეთ სწორი პასუხი: ჩემკენ...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მიდის;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "გადავიდა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "შევიდა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მოდის.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 81,
+        "Text": "81. შემოხაზეთ სწორი პასუხი: ჩვენგან...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "შემოვიდა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მოდის;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მიდის;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "გადმოვიდა.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 82,
+        "Text": "82. შემოხაზეთ სწორი პასუხი: იქითკენ:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "გადმოვიდა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "წამოვიდა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ამოვიდა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "წავიდა.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 83,
+        "Text": "83. შემოხაზეთ სწორი პასუხი: ეს სათამაშო მე მაჩუქეს. სათამაშო ....",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ჩემია;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "შენია;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ჩვენია;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "თქვენია.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 84,
+        "Text": "84. შემოხაზეთ სწორი პასუხი: ეს ოთახი არის ნანას დედის.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "დედამისი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "დედაჩემის;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "დედამისის;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "დედათქვენის.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 85,
+        "Text": "85. შემოხაზეთ სწორი პასუხი: დედამ მიყიდა ..................... ბალიში.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ბუმბული;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ბუმბულის;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "ბუმბულისგან;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ბუმბულო.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 86,
+        "Text": "86. შემოხაზეთ სწორი პასუხი: ეს არის ............. ნაყინი.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ბამბა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ბამბიდან;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ბამბით;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ბამბის.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 87,
+        "Text": "87. შემოხაზეთ სწორი პასუხი: ეს ...... სახლია.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ხის;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "ხით;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ხე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ხეს.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 88,
+        "Text": "88. შემოხაზეთ არასწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მე შენ გიცნობ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მე ვიცნობ ის;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "შენ იცნობ მას;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ის გიცნობს შენ.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 89,
+        "Text": "89. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მე შენ იცნობ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "შენ გიცნობს მას;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ის იცნობს შენ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მე ვიცნობ მას.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 90,
+        "Text": "90. შემოხაზეთ სწორი პასუხი: მომავალში:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ეს ყვავილი მეყვარება;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "ეს ყვავილი მიყვარდა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ეს ყვავილი მყვარებია;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ეს ყვავილი მიყვარს.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 91,
+        "Text": "91. შემოხაზეთ სწორი პასუხი: ახლა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მომწონდა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მომეწონება;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მომწონს;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "მომწონებია.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 92,
+        "Text": "92. შემოხაზეთ სწორი პასუხი: ვრეკავ:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მერე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ხვალ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "გუშინ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ახლა.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 93,
+        "Text": "93. შემოხაზეთ სწორი პასუხი: ............. გვაქვს სათამაშო.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ჩვენ;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "მე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მათ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "თქვენ.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 94,
+        "Text": "94. შემოხაზეთ სწორი პასუხი: .......... (მე) ნამცხვარი, თუ შეიძლება.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მიაწოდეთ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მოგაწოდეთ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მომაწოდეთ;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "მივაწოდეთ.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 95,
+        "Text": "95. შემოხაზეთ სწორი პასუხი:თუ შეიძლება, სასტუმროში ....... .",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მიმიტანეთ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მიმიყვანეთ;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "მე მიყვანა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მე მიტანა.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 96,
+        "Text": "96. შემოხაზეთ სწორი პასუხი: მიმართვა ტაქსის მძღოლს:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "რა ფასია?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "რა ღირებულება?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "რამდენი მოგართვათ?",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "რამდენი ფული?",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 97,
+        "Text": "97. შემოხაზეთ სწორი პასუხი: ეს ქათამი ..............",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "რა ღირს?",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "როგორი?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "რა ფული?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "რა თანხა?",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 98,
+        "Text": "98. შემოხაზეთ სწორი პასუხი: მიმტანი გვეკითხება:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "რას დაუკრავთ?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "რას გვასწავლით?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "რას მიირთმევთ?",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "რას ხატავთ?",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 99,
+        "Text": "99. შემოხაზეთ სწორი პასუხი: „თუ შეიძლება, მენიუ მომიტანეთ“, - ვეუბნებით:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ექიმს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მიმტანს;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "მძღოლს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "დამლაგებელს.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 100,
+        "Text": "100. შემოხაზეთ სწორი პასუხი: „რა ღირს მგზავრობა?“ - ვეკითხებით:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ექიმს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მასწავლებელს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მძღოლს;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "დამლაგებელს.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 101,
+        "Text": "101. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "თვე - ხუთშაბათი - / დღე - ნოემბერი / ეროვნება - ქართველი / ქვეყანა - ინგლისი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "დღე - ხუთშაბათი / თვე - ნოემბერი / ეროვნება - ქართველი / ქვეყანა - ინგლისი;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "დღე - ხუთშაბათი / თვე - ნოემბერი / ეროვნება - ინგლისი / ქვეყანა - ქართველი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "დღე - ქართველი / თვე - ნოემბერი /ეროვნება - ხუთშაბათი / ქვეყანა - ინგლისი.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 102,
+        "Text": "102. შემოხაზეთ არასწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "დღე - ხუთშაბათი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ეროვნება - ქართველი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ქვეყანა - ქართველი;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "თვე - ნოემბერი.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 103,
+        "Text": "103. შემოხაზეთ არასწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "თვე - ხუთშაბათი;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "ეროვნება - ქართველი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "დღე - ორშაბათი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ქვეყანა - ინგლისი.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 104,
+        "Text": "104. შემოხაზეთ არასწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ეროვნება - ინგლისელი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "დღე - ნოემბერი;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "თვე - თებერვალი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ქვეყანა - საფრანგეთი.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 105,
+        "Text": "105. შემოხაზეთ არასწორი პასუხი: ც. თვე - მარტი;",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "დღე - სამშაბათი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ქვეყანა - ესპანეთი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ეროვნება - ფრანგელი.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 106,
+        "Text": "106. ნინო უფრო მაღალია, ვიდრე ნანა. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ნინო ნანაზე მაღალია;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "ნანა მაღალია, ნინო დაბალია;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ნანა ნინოზე მაღალია;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ნინო მაღალია, ნანა ყველაზე დაბალია.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 107,
+        "Text": "107. ვაშლი უფრო მიყვარს, ვიდრე მსხალი. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ვაშლი მიყვარს, მსხალი - არა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ვაშლი მსხალზე მეტად მიყვარს;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "მსხალი მიყვარს, ვაშლი - არა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მსხალი ვაშლზე მეტად მიყვარს.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 108,
+        "Text": "108. საქართველოში უფრო ხშირად ჩავდივარ,ვიდრე ბელგიაში. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ბელგიაში საქართველოზე ხშირად ჩავდივარ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "საქართველოში არ ჩავდივარ, ბელგიაში - ხშირად;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "საქართველოში ბელგიაზე ხშირად ჩავდივარ;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "ბელგიაში არ ჩავდივარ, საქართველოში - ხშირად.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 109,
+        "Text": "109. შემოხაზეთ სწორი პასუხი: ეს არის სათამაშო.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ეს სათამაშოა;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "სათამაშო;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ეს სათამაშო;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ეს სათამაშოს.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 110,
+        "Text": "110. შემოხაზეთ სწორი პასუხი: ნანა სახლშია?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ნანას სახლია?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "სახლში არის ნანა?",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "ნანა სახლი?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "სახლი ნანასია?",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 111,
+        "Text": "111. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მგზავრმა აეროპორტშია;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მგზავრი აეროპორტია;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მგზავრი აეროპორტშია;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "მგზავრი არის აეროპორტი.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 112,
+        "Text": "112. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მე ვარ ორმოცდაჩვიდმეტი წელი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მე ვარ ორმოცდაჩვიდმეტის წლის;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მე არის ორმოცდაჩვიდმეტი წელი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მე ვარ ორმოცდაჩვიდმეტი წლის.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 113,
+        "Text": "113. შემოხაზეთ სწორი პასუხი: რამდენი წლის არის?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ის ოცდაათი წელია;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ის ოცდაათი წელი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ის ოცდაათი წლისაა;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "ის ოცდაათი წელი არის.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 114,
+        "Text": "114. შემოხაზეთ სწორი პასუხი: მე ვარ 18 წლის, თქვენ .......",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "რამდენი წლის ბრძანდებით?",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "რამდენი წლის არის?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "რამდენი წლის ბრძანდება?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "რომელი წლის ბრძანდებით?",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 115,
+        "Text": "115. შემოხაზეთ სწორი პასუხი: შენ ......",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "რამდენი წლის არის?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "რამდენი წელი ხარ?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "რამდენი წლისაა?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "რამდენი წლის ხარ?",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 116,
+        "Text": "116. შემოხაზეთ სწორი პასუხი: ნინო 3 წლისაა, გიორგი -",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ხუთი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ხუთის;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "ხუთს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ხუთია.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 117,
+        "Text": "117. შემოხაზეთ სწორი პასუხი: ეს მეგობრის მანქანაა.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ეს საიდან მანქანააეს?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ეს რატომ მანქანაა?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ეს ვისი მანქანაა?",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "ეს ვინ მანქანაა?",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 118,
+        "Text": "118. შემოხაზეთ სწორი პასუხი: ეს არწივია.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ეს ვინ არის?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ეს რა არის?",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "ეს სად არის?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ეს რატომაა?",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 119,
+        "Text": "119. შემოხაზეთ სწორი პასუხი: ესენი ვინ არიან? ესენი არიან .....",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მგლები;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მცენარეები;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ბავშვი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მგზავრები.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 120,
+        "Text": "120. შემოხაზეთ სწორი პასუხი: ძაღლი მორბის.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ვინ მორბის?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "რა მორბის?",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "რა მორბიან?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ვინ მორბიან?",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 121,
+        "Text": "121. შემოხაზეთ სწორი პასუხი: ეს არის სანდროს პაპა.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ეს პაპაჩემია;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ეს პაპამისია;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "ეს პაპაშენია;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ეს პაპაჩვენია.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 122,
+        "Text": "122. შემოხაზეთ სწორი პასუხი: საით მიემგზავრებით?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ბათუმისკენ;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "ბათუმისგან;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ბათუმი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ბათუმიდან.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 123,
+        "Text": "123. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "რა ფული პური?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ფასი პური რა?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "რა თანხა პური?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "რამდენი ღირს პური?",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 124,
+        "Text": "124. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "გამიჩერეთ შემდეგი გაჩერება;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "გამიჩერეთ შემდეგ გაჩერებაზე;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "გამიჩერეთ შემდეგზე გაჩერება;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "გამიჩერეთ გაჩერებაზე შემდეგ.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 125,
+        "Text": "125. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მე მაქვს სასწრაფო დახმარება;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მე უნდა სასწრაფო დახმარება;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მე მჭირდება სასწრაფო დახმარება;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "მე საჭიროა სასწრაფო დახმარება.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 126,
+        "Text": "126. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მე მინდა ტელევიზორს ვუყურო.",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "მე მინდა ტელევიზორი ვუყურო;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მე მინდა ტელევიზორი ჩვენება;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მე მინდა ტელევიზორი ნახება;",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 127,
+        "Text": "127. შემოხაზეთ სწორი პასუხი: ეს ნინოს კაბაა.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ის კაბაა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მისგან კაბაა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მისი კაბაა;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "მისთვის კაბაა.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 128,
+        "Text": "128. შემოხაზეთ არასწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მე - ჩემი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ის - მათი;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "ის - მისი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "თქვენ - თქვენი.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 129,
+        "Text": "129. შემოხაზეთ სწორი პასუხი: ნინომ შეჭამა ნამცხვრის ერთი მეორედი.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ნინომ შეჭამა ნამცხვრის უმეტესი ნაწილი.",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ნინომ სულ შეჭამა ნამცხვარი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ნინომ შეჭამა ნამცხვრის მცირე ნაწილი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ნინომ შეჭამა ნამცხვრის ნახევარი;",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 130,
+        "Text": "130. შემოხაზეთ სწორი პასუხი: მე დავასრულე საქმის ერთი მესამედი",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მე საქმის ნაწილს მოვრჩი;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "მე ნახევარი საქმე დავასრულე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მე თითქმის დავასრულე საქმე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მე სულ მოვრჩი საქმეს.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 131,
+        "Text": "131. შემოხაზეთ სწორი პასუხი: ეზოში დგას ხუთი მანქანა.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "რა რიცხვის მანქანა დგას ეზოში?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "რამდენი მანქანა დგას ეზოში?",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "რა რაოდენობა მანქანა?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მანქანა ეზოში რამდენი?",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 132,
+        "Text": "132. შემოხაზეთ არასწორი პასუხი: მე შევცდი, ......",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "უკაცრავად;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ბოდიში;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ვიზიარებ;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "ვწუხვარ.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 133,
+        "Text": "133. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ის დაიბადა 1982 წლის 5 მარტს;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "ის დაიბადა 1982 წლის 5 მარტზე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ის დაიბადა 1982 წლის 5 მარტში;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ის დაიბადა 1982 წლის 5 მარტი.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 134,
+        "Text": "134. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მე დავიბადე 2005 წლის შემოდგომაში;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მე დავიბადე 2005 წლის შემოდგომაზე;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "მე დავიბადე 2005 წლის შემოდგომა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მე დავიბადე 2005 წლის შემოდგომისთვის.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 135,
+        "Text": "135. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მე ვიბადები 2005 წლის მაისში;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მე დაბადება 2005 წლის მაისში;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მე დავიბადები 2005 წლის მაისში;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მე დავიბადე 2005 წლის მაისში.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 136,
+        "Text": "136. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "როდისაა შენი დაბადება?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "როდის შენი დაბადება?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "როდის დაბადებული შენ?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "როდის დაიბადე შენ?",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 137,
+        "Text": "137. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ის მოდის კინოთეატრიდან;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "ის მოდის კინოთეატრზე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ის მოდის კინოთეატრის;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ის მოდის კინოთეატრი.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 138,
+        "Text": "138. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ქეთი სწავლობს კერვაზე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ქეთი სწავლობს კერვა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ქეთი სწავლობს კერვას;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "ქეთის სწავლობს კერვას.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 139,
+        "Text": "139. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ის დადის ჩოგბურთი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ის დადის ჩოგბურთზე;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "ის დადის ჩოგბურთში;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ის დადის ჩოგბურთს.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 140,
+        "Text": "140. შემოხაზეთ სწორი პასუხი: როცა გვაინტერესებს ეროვნება:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ის იტალიელია;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "ის იტალიაა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ის იტალია;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ის არის იტალია.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 141,
+        "Text": "141. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "შენ მას გიყვარს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მე მას უყვარხარ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მე ის მიყვარს;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "ის შენ უყვარხართ.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 142,
+        "Text": "142. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ბავშვი ბურთს თამაში;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ბავშვი ბურთი თამაშობს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ბავშვი ბურთით თამაში;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ბავშვი ბურთით თამაშობს.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 143,
+        "Text": "143. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მე მწეველი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მე ვარ მწეველი;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "მე სიგარეტი წევა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მე წევს სიგარეტს.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 144,
+        "Text": "144. შემოხაზეთ სწორი პასუხი: მომავალ ზამთარს ბაკურიანში ....",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "წავალ;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "წავედი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მივედი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "წასვლა.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 145,
+        "Text": "145. შემოხაზეთ სწორი პასუხი: გაზაფხულზე ყვავილებს ....",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "შევაგროვე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "შემიგროვებია;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "შეგროვება;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "შევაგროვებ.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 146,
+        "Text": "146. შემოხაზეთ სწორი პასუხი: დაალაგეთ თანმიმდევრობით სიდიდის ზრდის მიხედვით.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ტბა, გუბე, ოკეანე, ზღვა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ზღვა, გუბე, ოკეანე, ტბა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "გუბე, ტბა, ზღვა, ოკეანე;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "ოკეანე, ზღვა, გუბე, ტბა.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 147,
+        "Text": "147. შემოხაზეთ სწორი პასუხი: დაალაგეთ თანმიმდევრობით სიდიდის კლების მიხედვით.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "კონტინენტი, ქვეყანა, ქალაქი, სოფელი;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "სოფელი, ქალაქი, ქვეყანა, კონტინენტი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ქალაქი, სოფელი, კონტინენტი, ქვეყანა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ქვეყანა, ქალაქი, კონტინენტი, სოფელი.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 148,
+        "Text": "148. შემოხაზეთ სწორი პასუხი: დაალაგეთ თანმიმდევრობით",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ზეგ, ხვალ, მაზეგ, დღეს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "დღეს, ხვალ, ზეგ, მაზეგ.",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "მაზეგ, ზეგ, დღეს, ხვალ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ხვალ, მაზეგ, დღეს, ზეგ;",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 149,
+        "Text": "149. შემოხაზეთ სწორი პასუხი: დაალაგეთ თანმიმდევრობით:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ჩვიდმეტი, ორი, შვიდი, თხუთმეტი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "შვიდი, ორი, ჩვიდმეტი, თხუთმეტი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ორი, შვიდი, თხუთმეტი, ჩვიდმეტი;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "ორი, შვიდი, ჩვიდმეტი, თხუთმეტი.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 150,
+        "Text": "150. შემოხაზეთ სწორი პასუხი: დაალაგეთ თანმიმდევრობით:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "შემოდგომა, გაზაფხული, ზამთარი, ზაფხული;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "გაზაფხული, ზაფხული, შემოდგომა, ზამთარი.",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "შემოდგომა, გაზაფხული, ზაფხული, ზამთარი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ზაფხული, შემოდგომა, გაზაფხული, ზამთარი;",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 151,
+        "Text": "151. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ადრე დილაში ცივა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ადრე დილით სიცივე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ადრე დილა სიცივე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ადრე დილით ცივა.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 152,
+        "Text": "152. შემოხაზეთ სწორი პასუხი: როგორც წესი, .....",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "გაზაფხულზე თბილა;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "ზაფხულში ცივა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ზამთარში ცხელა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "შემოდგომაზე ყინავს.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 153,
+        "Text": "153. შემოხაზეთ სწორი პასუხი: მე ვხედავ",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "უწინ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მერე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ახლა;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "მანამდე.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 154,
+        "Text": "154. შემოხაზეთ სწორი პასუხი: გისმენ:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მათ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მას;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ჩვენ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "შენ.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 155,
+        "Text": "155. შემოხაზეთ სწორი პასუხი: ..... რიგში ვიჯექი.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "პირველ;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "მეშვიდეში;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ხუთ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "სამ.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 156,
+        "Text": "156. შემოხაზეთ სწორი პასუხი: რომელი საათია?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "სამი და ნახევარი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "სამის ნახევარი;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "სამ-ნახევარი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "სამი ნახევარი.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 157,
+        "Text": "157. შემოხაზეთ სწორი პასუხი: სამსახურ...... სახლში წამოვედი.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "-ისგან;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "-ზევე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "-იდან;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "-შივე.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 158,
+        "Text": "158. შემოხაზეთ სწორი პასუხი:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ყურძენს შემოდგომაში ვწურავთ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ზაფხულზე ზღვაზე ვისვენებ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "პრემიერა არის აპრილზე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "გაზაფხულზე დავიბადე.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 159,
+        "Text": "159. შემოხაზეთ სწორი პასუხი: რომელი უპასუხებს შეკითხვას - როდის?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ზეგ;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "ბავშვისთვის;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ეზოდან;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ნელა.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 160,
+        "Text": "160. შემოხაზეთ სწორი პასუხი: რომელი უპასუხებს შეკითხვას - სად?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "აუზში;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "უკვე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ზეგ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ფრთხილად.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 161,
+        "Text": "161. შემოხაზეთ სწორი პასუხი: რომელი უპასუხებს შეკითხვას - როგორ ?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "თბილისში;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "სახლამდე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "საინტერესოდ;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "მარჯვნივ.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 162,
+        "Text": "162. შემოხაზეთ სწორი პასუხი: რომელი უპასუხებს შეკითხვას - საით ?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ხვალ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "სახლისკენ;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "გრძელი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მშვიდად.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 163,
+        "Text": "163. შემოხაზეთ სწორი პასუხი: რომელი უპასუხებს შეკითხვას - როგორი ?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ლამაზად;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ზეგ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ბავშვისკენ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მწარე.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 164,
+        "Text": "164. შემოხაზეთ სწორი პასუხი: რომელი უპასუხებს შეკითხვას - მერამდენე?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "პირველი;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "ბევრი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ოთხი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "რუსი.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 165,
+        "Text": "165. შემოხაზეთ სწორი პასუხი: საუზმეს მივირთმევ .....",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ჩანგალი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ჩანგლით;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "ჩანგლის;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ჩანგლისთვის.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 166,
+        "Text": "166. შემოხაზეთ სწორი პასუხი: ..... ფეხსაცმელებია?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "როდის?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "საიდან?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ვისი?",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "რატომ?",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 167,
+        "Text": "167. შემოხაზეთ არასწორი პასუხი: ..... ჩამოხვედი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "რატომ?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "საიდან?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "როდის?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ვისი?",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 168,
+        "Text": "168. შემოხაზეთ სწორი პასუხი: ..... არის ლიფტი?",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "სად?",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "რას?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "როდის?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ვინ?",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 169,
+        "Text": "169. შემოხაზეთ არასწორი პასუხი: თოკი არის:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "გრძელი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ფართო;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "მსხვილი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მოკლე.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 170,
+        "Text": "170. შემოხაზეთ სწორი პასუხი: სპექტაკლი არის:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ლურჯი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ღია;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ბოროტი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "საინტერესო.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 171,
+        "Text": "171. შემოხაზეთ სწორი პასუხი: ვვარაუდობ, საინტერესოდ გავატარებ დღეს.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "იმედი მაქვს, საინტერესოდ გავატარებ დღეს;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "საინტერესოდ ვერ გავატარებ დღეს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "აუცილებლად საინტერესოდ გავატარებ დღეს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "დარწმუნებული ვარ, საინტერესოდ გავატარებ დღეს.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 172,
+        "Text": "172. შემოხაზეთ სწორი პასუხი: ის კაცი ჩემ უფროს....... ითვლება.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "-ით;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "-ი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "-ად;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "-მა.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 173,
+        "Text": "173. შემოხაზეთ სწორი პასუხი: მოხუცი მატარებლ...... მიდის.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "-ად;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "-ით;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "-ი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "-მა.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 174,
+        "Text": "174. შემოხაზეთ სწორი პასუხი: „ინებეთ“ ნიშნავს:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "გამომართვი;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "წადი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "დაჯექი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ჭამე.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 175,
+        "Text": "175. შემოხაზეთ სწორი პასუხი: თავაზიანობას გამოხატავს:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ჭამე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "აიღე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მიირთვი;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "დაჯექი.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 176,
+        "Text": "176 შემოხაზეთ თავაზიანი მიმართვა:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "გაუმარჯოს, ხომ ხარ კარგად?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "როგორც იქნა, გაგიცანი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "როგორ ხარ?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მიხარია, რომ გაგიცანით.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 177,
+        "Text": "177. შემოხაზეთ სწორი პასუხი: ეს მსხალი არის ....... .",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "თხელი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ყვითელი;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "ბასრი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მსუქანი.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 178,
+        "Text": "178. შემოხაზეთ სწორი პასუხი: ეს სახლი არის ....... .",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მაღალი;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "სწრაფი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ნელი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ტკბილი.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 179,
+        "Text": "179. შემოხაზეთ სწორი პასუხი: 1. ავტობუსი გაჩერდება ... გაჩერებებზე.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "არა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "თუ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მხოლოდ;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "ნამდვილად.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 180,
+        "Text": "180. შემოხაზეთ არასწორი პასუხი: მატარებელი გადის ...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ხუთ საათზე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ხუთივე;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "ხუთის მერე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ხუთ საათში.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 181,
+        "Text": "181. შემოხაზეთ სწორი პასუხი: აკრძალვა - აქ ნუ ... ნაგავს!",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "დაყრით;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "დააბრძანებთ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "დასვამთ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "განალაგებთ.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 182,
+        "Text": "182. შემოხაზეთ სწორი პასუხი: რით შემიძლია ...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "გეწვიოთ?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "გიმსახუროთ?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "დაგპატიჟოთ?",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "გემსახუროთ?",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 183,
+        "Text": "183. შემოხაზეთ სწორი პასუხი: შესასვლელთან მანქანას ნუ ...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "დადგამთ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "დაასვენებთ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "გააჩერებთ;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "შემოატარებთ.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 184,
+        "Text": "184. შემოხაზეთ სწორი პასუხი: ახალი ფილმი მომდევნო პარასკევს ...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "შედგება;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "გამოვა;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "გადადგება;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "გაიხსნება.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 185,
+        "Text": "185. შემოხაზეთ სწორი პასუხი: დღეს 3 აპრილია. ჩემი დაბადების დღე არის 3 მაისს ანუ:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ერთ დღეში;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ერთ კვირაში;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ერთ წელიწადში;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ერთ თვეში.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 186,
+        "Text": "186. შემოხაზეთ სწორი პასუხი: ამ სპექტაკლს ორი კვირის ... გაიმეორებენ.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ხვალ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "წინ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "შემდეგ;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "მომდევნოდ.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 187,
+        "Text": "187. შემოხაზეთ სწორი პასუხი: ჟურნალისტმა მინისტრს კითხვა ...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "დაუსვა;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "გამოკითხა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "უთხრა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ეტყვის.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 188,
+        "Text": "188. შემოხაზეთ სწორი პასუხი: თუ ნინო პირველკურსელია, იგი დადის ....",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "სკოლაში;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "უნივერსიტეტში;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "ბაღში;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "სახლში.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 189,
+        "Text": "189. შემოხაზეთ სწორი პასუხი: ძლიერი ქარი ...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "დარბის;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "დადის;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მოდის;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ქრის.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 190,
+        "Text": "190. შემოხაზეთ სწორი პასუხი: ტელევიზიით ... ახალი ამბები.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "გადმოიტანეს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "გადმოყარეს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "გადმოსცეს;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "მოიტანეს.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 191,
+        "Text": "191. შემოხაზეთ არასწორი პასუხი: მეტრო იმუშავებს ყოველდღე, შაბათ-კვირის გარდა.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მეტრო იმუშავებს შაბათს;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "მეტრო იმუშავებს ოთხშაბათს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მეტრო იმუშავებს ხუთშაბათს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მეტრო იმუშავებს ორშაბათს.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 192,
+        "Text": "192. შემოხაზეთ არასწორი პასუხი: დღეს ორშაბათია. ბილეთები გაიყიდება ოთხშაბათიდან კვირის ჩათვლით.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ბილეთები გაიყიდება ხუთშაბათს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ბილეთები გაიყიდება სამშაბათს;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "ბილეთები გაიყიდება შაბათს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ბილეთები გაიყიდება პარასკევს.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 193,
+        "Text": "193. შემოხაზეთ არასწორი პასუხი: კვირას დღის მეორე ნახევრიდან იწვიმებს.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "კვირას დილით არ იწვიმებს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "კვირას საღამოს იწვიმებს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "კვირას დილიდანვე იწვიმებს;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "კვირას ღამე იწვიმებს.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 194,
+        "Text": "194. შემოხაზეთ არასწორი პასუხი: წელს ზღვაზე დასვენებას ...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ვაპირებ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ვგეგმავ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ვფიქრობ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მივდივარ.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 195,
+        "Text": "195. შემოხაზეთ არასწორი პასუხი: ხვალ, სავარაუდოდ, იწვიმებს.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ხვალ აუცილებლად იწვიმებს;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "შეიძლება ხვალ იწვიმოს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "შეიძლება ხვალ არ იწვიმოს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ხვალ ალბათ იწვიმებს.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 196,
+        "Text": "196. შემოხაზეთ არასწორი პასუხი: მეტრო იმუშავებს 2 იანვრის ღამის პირველ საათამდე.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მეტრო იმუშავებს 2 იანვარს, 00.30-ზე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "მეტრო იმუშავებს 2 იანვარს, 02.30-ზე;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "მეტრო იმუშავებს 2 იანვარს, 00.55-ზე;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "მეტრო იმუშავებს პირველ იანვარს, 23.55-ზე.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 197,
+        "Text": "197. შემოხაზეთ სწორი პასუხი: ახალ წელს ყოველთვის ... ნამცხვარს.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ვწვავთ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ვყინავთ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ვხარშავთ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ვაცხობთ.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 198,
+        "Text": "198. შემოხაზეთ სწორი პასუხი: „ცა მოწმენდილია“ ნიშნავს:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ცაზე ღრუბლებია;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "წვიმს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ცა უღრუბლოა;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "ნისლია.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 199,
+        "Text": "199. შემოხაზეთ სწორი პასუხი: გზაზე ბევრი მოსახვევია.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "გზა სწორია;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "გზა სწორი არ არის;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "გზაზე სიარული შეუძლებელია;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "გზა გადაკეტილია.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 200,
+        "Text": "200. შემოხაზეთ სწორი პასუხი: გიორგიმ დილით ... .",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ისაუზმა;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "ისადილა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ივახშმა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ისამხრა.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 201,
+        "Text": "201. შემოხაზეთ სწორი პასუხი: რა გვაქვს ...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "კვებად;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ჭამად;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "ვახშმად;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "სმად.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 202,
+        "Text": "202. შემოხაზეთ სწორი პასუხი: ჩოგბურთი ჩემი საყვარელი ...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "სპორტსმენია;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ბურთია;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "შეჯიბრებაა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "სპორტია.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 203,
+        "Text": "203. შემოხაზეთ სწორი პასუხი: ეს წამალი ... გაციებას.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "აკეთებს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "შველის;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "შეაკეთებს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "გადაარჩენს.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 204,
+        "Text": "204. შემოხაზეთ სწორი პასუხი: ამ ფილმზე 12 წლამდე ბავშვები არ ...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "აკრძალულია;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "უყურებენ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "დაიშვებიან;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "ათვალიერებენ.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 205,
+        "Text": "205. შემოხაზეთ სწორი პასუხი: მცხეთა თბილისთან ...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "მალევეა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ახლოზეა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მოკლეზეა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ახლოა.",
+                "ThisCorrectAnswer": true
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 206,
+        "Text": "206. შემოხაზეთ სწორი პასუხი: მატარებლით პირველად ...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "დავრბივარ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ვმგზავრობ;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "დავდივარ;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "დავსეირნობ.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 207,
+        "Text": "207. შემოხაზეთ სწორი პასუხი: გუშინ მთელი დღე ...",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ითოვებს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "თოვს;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "თოვდა;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "დ",
+                "Text": "გათოვდა.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 208,
+        "Text": "208. შემოხაზეთ სწორი პასუხი: „მოსაღამოვდა“ ნიშნავს:",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "დადგა საღამო;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "ბ",
+                "Text": "უკვე დაღამდა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "გ",
+                "Text": "მოიღრუბლა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ჯერ შუადღეა.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    },
+    {
+        "Topic": "GeorgianLanguage",
+        "Number": 209,
+        "Text": "209. შემოხაზეთ სწორი პასუხი: დღეს ვიყიდე ერთი ... თაფლი.",
+        "Answers": [
+            {
+                "Code": "ა",
+                "Text": "ცალი;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "ბ",
+                "Text": "ქილა;",
+                "ThisCorrectAnswer": true
+            },
+            {
+                "Code": "გ",
+                "Text": "წონა;",
+                "ThisCorrectAnswer": false
+            },
+            {
+                "Code": "დ",
+                "Text": "ჩანთა.",
+                "ThisCorrectAnswer": false
+            }
+        ]
+    }
+]
